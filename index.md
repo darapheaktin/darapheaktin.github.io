@@ -1,4 +1,4 @@
- [About](/About) &nbsp; | &nbsp; [Teaching](/sample_page)
+ [About](/About) &nbsp; | &nbsp; [Teaching](/Teaching)
  <br>
 # Working Paper 
 
