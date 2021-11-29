@@ -6,7 +6,7 @@
 
 **Download here:**
 <pre>
-<a href="/pdf/Paper1_EarningsRisk_draft_2021-11-16.pdf">Full draft (16/11/2021)</a>,  
+<a href="/pdf/Paper1_EarningsRisk_draft_2021-11-16.pdf">Full draft (16/11/2021)</a> 
 <a href="/pdf/paper1_EarningsRisk_slides__2021-11-29.pdf">Slides (29/11/2021)</a>
 </pre>
 
