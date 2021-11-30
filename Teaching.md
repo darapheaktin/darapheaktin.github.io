@@ -14,4 +14,3 @@ I have worked as a teaching assistant in economics for the College of Business a
 #### Courses in CASS 
 - POLS2130 Public Choice and Politics 
 
-[Back](/index)
