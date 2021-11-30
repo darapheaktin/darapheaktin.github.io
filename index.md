@@ -1,4 +1,4 @@
- [About](/About) &nbsp; | &nbsp; [Teaching](/Teaching)
+ [About](/About) &nbsp; | &nbsp; [Research](/Research) &nbsp; | &nbsp; [Teaching](/Teaching)
  <br>
 # Working Paper 
 
@@ -15,11 +15,11 @@
 
 **Download here:**
 <pre>
-<a href="/pdf/Paper1_EarningsRisk_draft__2021-11-26.pdf">Full draft (16/11/2021)</a> 
-<a href="/pdf/paper1_EarningsRisk_slides__2021-11-30.pdf">Slides (29/11/2021)</a>
+<a href="/pdf/Paper1_EarningsRisk_draft__2021-11-26.pdf">Full draft (26/11/2021)</a> 
+<a href="/pdf/paper1_EarningsRisk_slides__2021-11-30.pdf">Slides (30/11/2021)</a>
 </pre>
 
-*Note: The current working paper contain some notable errors which will be rectified in the next update.*
+*Note: The current working paper contain some errors which will be rectified in the next update.*
 
 <!--- [Project 1 Title](/sample_page) <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
