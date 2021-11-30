@@ -37,8 +37,9 @@
 
 **Authors**: *Chung Tran* and *Darapheak Tin*
 
-We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., family tax benefits) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the persistence of risks over lifecycle in Australia. 
+We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., family tax benefits) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the dynamics of earnings (e.g., the persistence of risks) over lifecycle in Australia. 
 
+<!--
 Currently, I am working on studying different model and how each new economic or demographic element affects the model outcome. Below is the planned investigation: 
 
 [1] *Model 0*: A dynamic general equilibrium, overlapping general equilibrium model filled with married couples. We abtract from labor-supply decisions of spouses at the intensive margin, but we allwo for endogenous female labor force participation (extensive margin). The fiscal system includes flat taxes on capital and labor income, a social transfer program to family with children and a pay-as-you-go (PAYG) pension system;
@@ -50,6 +51,7 @@ Currently, I am working on studying different model and how each new economic or
 [4] *Model 3*: Model 2 + single and married households;
 
 [5] *Model 4*: Model 3 + labor-supply decisions of female workers at the extensive and intensive margins.
+-->
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
