@@ -1,6 +1,6 @@
  [About](/About) &nbsp; | &nbsp; [Research](/index) &nbsp; | &nbsp; [Teaching](/Teaching)
  <br>
- 
+
 # Teaching Experience
 
 I have worked as a teaching assistant in economics for the College of Business and Economics (CBE) and the College of Arts and Social Sciences (CASS) at the Australian National University (ANU). 
@@ -14,3 +14,4 @@ I have worked as a teaching assistant in economics for the College of Business a
 #### Courses in CASS 
 - POLS2130 Public Choice and Politics 
 
+---
