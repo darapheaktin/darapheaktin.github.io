@@ -29,7 +29,7 @@ Reading for pleasure:
 2. The Naked series (*Naked Statistics; Naked Economics; Naked Money*) by Charles Wheelan 
 3. *Basic Economics*; *Discrimination and Disparities*; *Intellectuals and Society*; and a few others by Thomas Sowell 
 
-Reading for building technical skills in economic research: 
+Reading for building technical understanding and skills in economic research: 
 1. *Introduction to Computational Economics using Fortran* by Fehr and Kindermann 
 2. *Further Mathematics for Economic Analysis* by Sydsaeter, Hammond, Seierstad, and Strom
 3. *Econometrics* by Bruce E. Hansen
