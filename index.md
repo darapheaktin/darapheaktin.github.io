@@ -37,7 +37,7 @@
 
 **Authors**: *Chung Tran* and *Darapheak Tin*
 
-We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., family tax benefits) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the dynamics of earnings (e.g., the persistence of risks) over lifecycle in Australia. 
+We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., the Child Care Subsidy and the Family Tax Benefit part A and part B programs) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the dynamics of earnings (e.g., the persistence of risks) over lifecycle in Australia. 
 
 <!--
 Currently, I am working on studying different model and how each new economic or demographic element affects the model outcome. Below is the planned investigation: 
