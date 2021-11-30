@@ -27,6 +27,27 @@
 <!--- [Project 2 Title](http://example.com/) -->
 <!--- [Project 1 Title](http://example.com/) -->
 
+<br>
+<br>
+<br>
+
+# Other Work in Progress 
+
+### Child-Related Government Transfers and Welfare: Quantitative Analysis from Australia
+
+**Authors**: *Chung Tran* and *Darapheak Tin*
+
+We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., family tax benefits) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the persistence of risks over lifecycle in Australia. 
+
+Currently, I am working on studying different model and how each new economic or demographic element affects the model outcome. Below is the planned investigation: 
+
+[1] *Model 0*: A dynamic general equilibrium, overlapping general equilibrium model filled with married couples. We abtract from labor-supply decisions of spouses at the intensive margin, but we allwo for endogenous female labor force participation (extensive margin). The fiscal system includes flat taxes on capital and labor income, a social transfer
+program to family with children and a pay-as-you-go (PAYG) pension system.
+[2] *Model 1*: Model 0 + Labor hour supplies (intensive margin) for male and female are exogeneous and kept at the average hours from data. The labor-supply decisions of male workers at the extensive margin is also exogenous. However, we allow for the extensive margin of labor supply decision of female workers. This is a close economy model that matchs the US economy;
+[3] *Model 2*: Model 1 + Small open economy + The Australian tax and transfer system. Specifically, we incorporate a progressive tax function and three major transfer programmes: the Child Care Subsidy, the Family Tax Benefit (part A and part B), and the means-tested Age Pension;
+[4] *Model 3*: Model 2 + single and married households;
+[5] *Model 4*: Model 3 + labor-supply decisions of female workers at the extensive and intensive margins.
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
