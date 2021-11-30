@@ -16,7 +16,7 @@
 **Download here:**
 <pre>
 <a href="/pdf/Paper1_EarningsRisk_draft__2021-11-26.pdf">Full draft (26/11/2021)</a> 
-<a href="/pdf/paper1_EarningsRisk_slides__2021-11-30.pdf">Slides (30/11/2021)</a>
+<a href="/pdf/Paper1_EarningsRisk_slides__2021-11-30.pdf">Slides (30/11/2021)</a>
 </pre>
 
 *Note: The current working paper contain some errors which will be rectified in the next update.*
