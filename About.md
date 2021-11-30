@@ -1,6 +1,8 @@
  [About](/About) &nbsp; | &nbsp; [Research](/index) &nbsp; | &nbsp; [Teaching](/Teaching)
  <br>
 
+# About 
+
 Thank you for visiting my personal website! 
 
 I am a third-year PhD candidate in the Research School of Economics of the Australian National University. My primary interest is in Macroeconomics, particularly how macro phenomena can be understood through the lens of life cycle factors, demographic structure and government policies.
