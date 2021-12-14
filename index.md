@@ -19,7 +19,7 @@
 <a href="/pdf/Paper1_EarningsRisk_slides__2021-12-04.pdf">Slides (04/12/2021)</a>
 </pre>
 
-*Note: The current working paper contain some errors which will be rectified in the next update.*
+<!--- *Note: The current working paper contain some errors which will be rectified in the next update.* --> 
 
 <!--- [Project 1 Title](/sample_page) <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
