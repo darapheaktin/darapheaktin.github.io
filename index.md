@@ -15,8 +15,8 @@
 
 **Download here:**
 <pre>
-<a href="/pdf/Paper1_EarningsRisk_draft__2022-01-24.pdf">Full draft (24/01/2022)</a> 
-<a href="/pdf/Paper1_EarningsRisk_slides__2021-12-04.pdf">Slides (04/12/2021)</a>
+<a href="/pdf/Paper1_EarningsRisk_2022-02-21.pdf">Full draft (21/02/2022)</a> 
+<a href="/pdf/Paper1_EarningsRisk_slides_2021-02-15.pdf">Slides (15/02/2022)</a>
 </pre>
 
 <!--- *Note: The current working paper contain some errors which will be rectified in the next update.* --> 
