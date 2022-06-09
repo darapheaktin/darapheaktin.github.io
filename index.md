@@ -17,12 +17,13 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 *A-Life Conference 2021* (Crawford School of Public Policy, ANU); 
 *RSE Macro Seminar series* (Virtual, ANU); 
 *3rd Annual PhD Workshop 2021* (Virtual; ANU);
-*Workshop of the Australasian Macroeconomics Society or WAMS 2021* (Virtual).
+*Workshop of the Australasian Macroeconomics Society or WAMS 2021* (Virtual); 
+*Tax and Transfer Policy Institute (TTPI) 2022 (Crawford School of Public Policy, ANU).
 
 **Download here:**
 <pre>
 <a href="/pdf/TinTran_EarningsRisk_WP_2022-02-07.pdf">Full draft (07/02/2022)</a> 
-<a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__09062022.pdf">Slides (15/02/2022)</a>
+<a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__09062022.pdf">Slides (09/06/2022)</a>
 </pre>
 
 <!--- *Note: The current working paper contain some errors which will be rectified in the next update.* --> 
