@@ -22,7 +22,7 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 **Download here:**
 <pre>
 <a href="/pdf/TinTran_EarningsRisk_WP_2022-02-07.pdf">Full draft (07/02/2022)</a> 
-<a href="/pdf/Paper1_EarningsRisk_slides_2022-02-15.pdf">Slides (15/02/2022)</a>
+<a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__09062022.pdf">Slides (15/02/2022)</a>
 </pre>
 
 <!--- *Note: The current working paper contain some errors which will be rectified in the next update.* --> 
