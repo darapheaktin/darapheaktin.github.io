@@ -49,7 +49,7 @@ We build a general equilibrium OLG model with married couples having children to
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran_Family Tax Benefits A Macroeconomic Analysis_slides_v1_20220525.pdf">Slides (25/05/2022)</a>
+<a href="/pdf/TinTran_2022__Family_Tax_Benefits_and_Child_Care_Subsidy__A_Macroeconomic_Analysis__SAET2022__v2.pdf">Slides (17/07/2022)</a>
 </pre>
 
 
