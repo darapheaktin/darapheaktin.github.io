@@ -11,7 +11,7 @@ I have also worked as a teaching assistant in economics for the College of Busin
 - ECON1101 Microeconomics 1 
 - ECON1102 Macroeconomics 1 
 - ECON2102 Macroeconomics 2 
-- ECON3103 International Economics 
+- ECON3103/ECON4415/ECON8015 International Economics 
 - ECON3023/ECON4403/ECON8003 Economic Policy Issues
 
 #### Courses in CASS 
