@@ -47,6 +47,10 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 
 We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., the Child Care Subsidy and the Family Tax Benefit part A and part B programs) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the dynamics of earnings (e.g., the persistence of risks) over lifecycle in Australia. 
 
+**Paper presentations to date**: 
+*RSE Macro Study Group* (ANU); 
+*21st Annual SAET Conference* (ANU).
+
 **Download here:**
 <pre>
 <a href="/pdf/TinTran_2022__Family_Tax_Benefits_and_Child_Care_Subsidy__A_Macroeconomic_Analysis__SAET2022__v2.pdf">Slides (17/07/2022)</a>
