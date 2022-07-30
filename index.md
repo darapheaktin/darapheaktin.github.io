@@ -1,4 +1,4 @@
- [About](/About) &nbsp; | &nbsp; [Research](/index) &nbsp; | &nbsp; [Teaching](/Teaching)
+ [About](/About) &nbsp; | &nbsp; [Research](/index) &nbsp; | &nbsp; [Teaching](/Teaching) | &nbsp; [Fun stuff](/Fun stuff)
  <br>
 # Working Paper 
 
