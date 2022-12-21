@@ -21,7 +21,8 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 *3rd Annual PhD Workshop 2021* (Virtual; ANU);
 *Workshop of the Australasian Macroeconomics Society or WAMS 2021* (Virtual); 
 *Treasury 2022*; 
-*Tax and Transfer Policy Institute (TTPI) 2022* (Crawford School of Public Policy, ANU).
+*Tax and Transfer Policy Institute (TTPI) 2022* (Crawford School of Public Policy, ANU); 
+*Australian Labour Market Research (ALMR) Workshop 2022* (ANU).
 
 **Download here:**
 <pre>
@@ -51,11 +52,12 @@ We build a general equilibrium OLG model with married couples having children to
 
 **Paper presentations to date**: 
 *RSE Macro Study Group* (ANU); 
-*21st Annual SAET Conference* (ANU).
+*21st Annual SAET Conference* (ANU);
+*RSE Annual PhD Workshop 2022* (ANU).
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran_2022__Family_Tax_Benefits_and_Child_Care_Subsidy__A_Macroeconomic_Analysis__SAET2022__v2.pdf">Slides (17/07/2022)</a>
+<a href="/pdf/TinTran_2022__FTB and CCS a Macroeconomic Analysis__RSE PhD Workshop 2022__FINAL.pdf">Slides (30/11/2022)</a>
 </pre>
 
 
