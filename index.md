@@ -26,8 +26,8 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran_EarningsRisk_WP_2022-09-25.pdf">Full draft (25/09/2022)</a> 
-<a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__TTPI__20220610.pdf">Slides (10/06/2022)</a>
+<a href="/pdf/TinTran_WP2022_Earnings Risk and Insurance.pdf">Full draft (10/2022)</a> 
+<a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf">Slides (11/2022)</a>
 </pre>
 
 <!--- *Note: The current working paper contain some errors which will be rectified in the next update.* --> 
@@ -57,7 +57,7 @@ We build a general equilibrium OLG model with married couples having children to
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran_2022__FTB and CCS a Macroeconomic Analysis__RSE PhD Workshop 2022__FINAL.pdf">Slides (30/11/2022)</a>
+<a href="/pdf/TinTran_2022__FTB and CCS a Macroeconomic Analysis__RSE PhD Workshop 2022__FINAL.pdf">Slides (11/2022)</a>
 </pre>
 
 
