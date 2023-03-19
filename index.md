@@ -1,10 +1,12 @@
  [About](/About) &nbsp; | &nbsp; [Research](/index) &nbsp; | &nbsp; [Teaching](/Teaching) | &nbsp; [Fun stuff](/Fun stuff)
  <br>
-# Working Paper 
+# Publication 
 
 ### Lifecycle Earnings Risk and Insurance: New Evidence from Australia 
 
-***Abstract***: We study the nature of earnings dynamics by documenting higher-order moments of residual income changes, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001-2020. Similar to other countries (e.g. see *Guvenen et al. 2021* and *De Nardi et al. 2021*), we find that the distribution of earnings shocks in Australia displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions, and that family and government insurance against risks is substantial. However, the sources of fluctuations and the role of family and government insurance are different. First, unlike in the Netherlands and the US, wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks (second-order risk); meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Second, family insurance via income pooling and adjustment of labour market activities of secondary earners, and government insurance embedded in the targeted transfer system play more distinct roles in reducing risks. Government insurance is more important in mitigating the dispersion of earnings shocks, whereas family insurance is dominant in mitigating the magnitude and likelihood of extreme and rare shocks. Furthermore, our comparison of risks between demographics reveals: (i) a risk equalizing effect of government insurance, and (ii) persistent risks for certain groups such as female heads of household and non-parents. 
+**Authors**: *Darapheak Tin* and *Chung Tran*
+
+***Abstract***: This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.
 
 <!--   
 Old abstract:  1
@@ -12,6 +14,9 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 
 Old abstract: 2 
 We study the nature of lifecycle earnings dynamics by documenting higher-order moments of earnings shocks over the lifecycle, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001-2020. Similar to other countries (e.g. see Guvenen et al. (2021) and De Nardi et al. (2021)), the distribution of earnings shocks in Australia displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. However, the sources of fluctuations and the role of family and government insurance are quite different. Wages account more for the dispersion of earnings shocks (second-order risk), while hours drive the negative skewness and excess kurtosis (the third- and fourth–order risks, respectively). Wage changes are strongly associated with earnings changes, whereas hour changes are largely absent in upward movement and relatively small in downward movement of earnings changes. Family insurance via pooling income of family members and adjusting market activities of secondary earners, and government insurance embedded in the progressive tax and transfer system play distinct roles in reducing risks over age and by income group. Government insurance is more important in mitigating the dispersion of earnings shocks; meanwhile, family insurance is more dominant in mitigating the magnitude and likelihood of extreme and rare shocks. Family insurance interacts with government insurance; however, their joint forces fail to eliminate the non-Gaussian and non-linear features. Furthermore, comparison between groups reveals: (i) the risk equalizing effect of government insurance, and (ii) the persistent nature of risks for certain demographics such as female heads of household and non-parents. Hence, our results shed new insights into the complexity of earnings dynamics and the importance of family and government insurance.
+
+Old abstractx: 3
+We study the nature of earnings dynamics by documenting higher-order moments of residual income changes, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001-2020. Similar to other countries (e.g. see *Guvenen et al. 2021* and *De Nardi et al. 2021*), we find that the distribution of earnings shocks in Australia displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions, and that family and government insurance against risks is substantial. However, the sources of fluctuations and the role of family and government insurance are different. First, unlike in the Netherlands and the US, wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks (second-order risk); meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Second, family insurance via income pooling and adjustment of labour market activities of secondary earners, and government insurance embedded in the targeted transfer system play more distinct roles in reducing risks. Government insurance is more important in mitigating the dispersion of earnings shocks, whereas family insurance is dominant in mitigating the magnitude and likelihood of extreme and rare shocks. Furthermore, our comparison of risks between demographics reveals: (i) a risk equalizing effect of government insurance, and (ii) persistent risks for certain groups such as female heads of household and non-parents. 
 --> 
 
 
@@ -26,7 +31,7 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran_WP2022_Earnings Risk and Insurance.pdf">Full draft (10/2022)</a> 
+<a href="https://doi.org/10.1111/1475-4932.12723">Full article (Economic Record, 2023) </a> 
 <a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf">Slides (11/2022)</a>
 </pre>
 
@@ -42,13 +47,13 @@ We study the nature of lifecycle earnings dynamics by documenting higher-order m
 <br>
 <br>
 
-# Other Work in Progress 
+# Working Paper 
 
-### Family Tax Benefits: A Macroeconomic Analysis
+### Aggregate Implications of Child-Related Transfers with Means Testing
 
 **Authors**: *Darapheak Tin* and *Chung Tran*
 
-We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., the Child Care Subsidy and the Family Tax Benefit part A and part B programs) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the dynamics of earnings (e.g., the persistence of risks) over lifecycle in Australia. 
+***Abstract***: This paper studies implications of child-related transfers with means testing for female labor supply, macroeconomic aggregates and welfare. We provide new insights from a macroeconomic analysis of two highly targeted child-related transfer programs in Australia: Family Tax Benefit (FTB) and Child Care Subsidy (CCS). We begin by documenting key life-cycle facts on child-related transfers, labor supply, wages and earnings in Australia. Next, we formulate a dynamic general equilibrium heterogeneous-agent overlapping generations model of single and married households who face income risk, lifetime uncertainty, costs of raising children and unequal access to child-related transfers due to means testing. Our quantitative analysis indicates that means testing is an important policy tool to better direct benefits to poorer households and to better manage public funding costs by controlling the conditions for receiving benefits (extensive margin) and the benefit level (intensive margin). However, the entailing high effective marginal tax rates imposes significant adverse effects on work incentive of mothers. Relaxing the means testing rule induces more female labor supply and human capital accumulation, which subsequently leads to aggregate efficiency gains and welfare improvement. Our results also highlight the importance of accounting for family structure, life-cycle dynamics and interplay between transfer programs in the general equilibrium setting when quantifying the resultant aggregate-welfare effects of a child-related transfer policy reform.
 
 **Paper presentations to date**: 
 *RSE Macro Study Group* (ANU); 
@@ -57,11 +62,13 @@ We build a general equilibrium OLG model with married couples having children to
 
 **Download here:**
 <pre>
+<a href="/pdf/Paper2_FTB_2023-03-12.pdf">Full draft (03/2023) </a> 
 <a href="/pdf/TinTran_2022__FTB and CCS a Macroeconomic Analysis__RSE PhD Workshop 2022__FINAL.pdf">Slides (11/2022)</a>
 </pre>
 
 
 <!--
+We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., the Child Care Subsidy and the Family Tax Benefit part A and part B programs) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the dynamics of earnings (e.g., the persistence of risks) over lifecycle in Australia. 
 Currently, I am working on studying different model and how each new economic or demographic element affects the model outcome. Below is the planned investigation: 
 
 [1] *Model 0*: A dynamic general equilibrium, overlapping general equilibrium model filled with married couples. We abtract from labor-supply decisions of spouses at the intensive margin, but we allwo for endogenous female labor force participation (extensive margin). The fiscal system includes flat taxes on capital and labor income, a social transfer program to family with children and a pay-as-you-go (PAYG) pension system;
