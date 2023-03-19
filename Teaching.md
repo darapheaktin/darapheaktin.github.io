@@ -13,6 +13,8 @@ I have also worked as a teaching assistant in economics for the College of Busin
 - ECON2102 Macroeconomics 2 
 - ECON3103/ECON4415/ECON8015 International Economics 
 - ECON3023/ECON4403/ECON8003 Economic Policy Issues
+- ECON2131/ECON4434/ECON8034 Public Sector Economics 
+- EMET7001 Mathematical Techniques for Economic Analysis 
 
 #### Courses in CASS 
 - POLS2130 Public Choice and Politics 
