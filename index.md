@@ -53,21 +53,26 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 
 **Authors**: *Darapheak Tin* and *Chung Tran*
 
-***Abstract***: This paper studies implications of child-related transfers with means testing for female labor supply, macroeconomic aggregates and welfare. We provide new insights from a macroeconomic analysis of two highly targeted child-related transfer programs in Australia: Family Tax Benefit (FTB) and Child Care Subsidy (CCS). We begin by documenting key life-cycle facts on child-related transfers, labor supply, wages and earnings in Australia. Next, we formulate a dynamic general equilibrium heterogeneous-agent overlapping generations model of single and married households who face income risk, lifetime uncertainty, costs of raising children and unequal access to child-related transfers due to means testing. Our quantitative analysis indicates that means testing is an important policy tool to better direct benefits to poorer households and to better manage public funding costs by controlling the conditions for receiving benefits (extensive margin) and the benefit level (intensive margin). However, the entailing high effective marginal tax rates imposes significant adverse effects on work incentive of mothers. Relaxing the means testing rule induces more female labor supply and human capital accumulation, which subsequently leads to aggregate efficiency gains and welfare improvement. Our results also highlight the importance of accounting for family structure, life-cycle dynamics and interplay between transfer programs in the general equilibrium setting when quantifying the resultant aggregate-welfare effects of a child-related transfer policy reform.
+***Abstract***: This paper examines the implications of means-tested child-related transfers for female labor supply, macroeconomic aggregates, and welfare. We provide new insights based on a macroeconomic analysis of two highly targeted child-related transfer programs in Australia: Family Tax Benefit (FTB) and Child Care Subsidy (CCS). For our study, we develop a dynamic general equilibrium heterogeneous-agent overlapping generations model of single and married households who face income and longevity risks, costs of raising children, and unequal access to child-related transfers due to means testing. Our counterfactual policy experiments indicate that while means testing is an important tool for better directing benefits towards low-income households, the entailing high participation tax rates exert significant adverse work incentive effects on secondary earners, particularly women. In general, relaxing the means testing rules can increase female labor supply, human capital, output and welfare. Our findings also suggest other potential incremental reforms to the transfer payment rates but strongly reject the abolition of child-related transfers altogether on both efficiency and welfare grounds. Three key mechanisms in our quantitative framework drive these results: (i) family structure, (ii) life-cycle dynamics, and (iii) the interplay between transfer programs in the general equilibrium setting.
 
 **Paper presentations to date**: 
 *RSE Macro Study Group* (ANU); 
 *21st Annual SAET Conference* (ANU);
-*RSE Annual PhD Workshop 2022* (ANU).
+*RSE Annual PhD Workshop 2022* (ANU); 
+*17th Western Economics Association International (WEAI) 2023 Conference.
 
 **Download here:**
 <pre>
-<a href="/pdf/Paper2_FTB_2023-03-12.pdf">Full draft (03/2023) </a> 
-<a href="/pdf/TinTran_2022__FTB and CCS a Macroeconomic Analysis__RSE PhD Workshop 2022__FINAL.pdf">Slides (11/2022)</a>
+<a href="/pdf/TinTran2023_WP_Aggregate Implications of Child-Related Transfers with Means Testing_052023.pdf">Working paper (05/2023) </a> 
+<a href="/pdf/TinTran2023_WP__Aggregate Implications of Child Related Transfers with Means Testing__WEAI__slides.pdf">Slides (04/2023)</a>
 </pre>
 
 
 <!--
+v1: This paper studies implications of child-related transfers with means testing for female labor supply, macroeconomic aggregates and welfare. We provide new insights from a macroeconomic analysis of two highly targeted child-related transfer programs in Australia: Family Tax Benefit (FTB) and Child Care Subsidy (CCS). We begin by documenting key life-cycle facts on child-related transfers, labor supply, wages and earnings in Australia. Next, we formulate a dynamic general equilibrium heterogeneous-agent overlapping generations model of single and married households who face income risk, lifetime uncertainty, costs of raising children and unequal access to child-related transfers due to means testing. Our quantitative analysis indicates that means testing is an important policy tool to better direct benefits to poorer households and to better manage public funding costs by controlling the conditions for receiving benefits (extensive margin) and the benefit level (intensive margin). However, the entailing high effective marginal tax rates imposes significant adverse effects on work incentive of mothers. Relaxing the means testing rule induces more female labor supply and human capital accumulation, which subsequently leads to aggregate efficiency gains and welfare improvement. Our results also highlight the importance of accounting for family structure, life-cycle dynamics and interplay between transfer programs in the general equilibrium setting when quantifying the resultant aggregate-welfare effects of a child-related transfer policy reform.
+
+
+
 We build a general equilibrium OLG model with married couples having children to study the welfare effects of child-related transfers (i.e., the Child Care Subsidy and the Family Tax Benefit part A and part B programs) in Australia. In this paper, we also incorporate lessons learnt from our previous work on [Lifecycle Earnings Risk and Insurance: New Evidence from Australia](/index) to better capture the dynamics of earnings (e.g., the persistence of risks) over lifecycle in Australia. 
 Currently, I am working on studying different model and how each new economic or demographic element affects the model outcome. Below is the planned investigation: 
 
