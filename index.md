@@ -53,7 +53,7 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 
 **Authors**: *Darapheak Tin* and *Chung Tran*
 
-***Abstract***: This paper examines the implications of means-tested child-related transfers for female labor supply, macroeconomic aggregates, and welfare. We provide new insights based on a macroeconomic analysis of two highly targeted child-related transfer programs in Australia: Family Tax Benefit (FTB) and Child Care Subsidy (CCS). For our study, we develop a dynamic general equilibrium heterogeneous-agent overlapping generations model of single and married households who face income and longevity risks, costs of raising children, and unequal access to child-related transfers due to means testing. Our counterfactual policy experiments indicate that while means testing is an important tool for better directing benefits towards low-income households, the entailing high participation tax rates exert significant adverse work incentive effects on secondary earners, particularly women. In general, relaxing the means testing rules can increase female labor supply, human capital, output and welfare. Our findings also suggest other potential incremental reforms to the transfer payment rates but strongly reject the abolition of child-related transfers altogether on both efficiency and welfare grounds. Three key mechanisms in our quantitative framework drive these results: (i) family structure, (ii) life-cycle dynamics, and (iii) the interplay between transfer programs in the general equilibrium setting.
+***Abstract***: Should government transfers to families with children be means-tested or universal? We revisit this question and provide new insights from the Australian policy settings where joint family income tests determine eligibility and benefit levels of child-related transfers. We first document key empirical facts on child-related transfers and distinct age-profiles of labor supply of mothers in Australia, using household survey data HILDA 2001-2020. Next, we build a dynamic general equilibrium overlapping generations model of single and married households with children and quantify the implications of child-related transfers with means testing for female labor supply, macro aggregates, and welfare. Our results indicate that strict and complex means testing rules can result in significant adverse effects on female labor supply and human capital accumulation. A reform that switches from the benchmark means-tested child-related transfer system to a universal system can improve aggregate efficiency and overall welfare. This reform is supported by the majority; however, it leads to welfare losses of single mothers who are the intended beneficiaries.
 
 **Paper presentations to date**: 
 *RSE Macro Study Group* (ANU); 
@@ -63,9 +63,12 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran2023_WP_Aggregate Implications of Child-Related Transfers with Means Testing_062023.pdf">Working paper (06/2023) </a> 
-<a href="/pdf/TinTran2023_WP__Aggregate Implications of Child Related Transfers with Means Testing__WEAI__slides.pdf">Slides (04/2023)</a>
+<a href="/pdf/TinTran2023__Aggregate Implications of Child-Related Transfers with Means Testing.pdf"> Working paper (09/2023) </a> 
 </pre>
+
+<!-- 
+<a href="/pdf/TinTran2023_WP__Aggregate Implications of Child Related Transfers with Means Testing__WEAI__slides.pdf">Slides (04/2023)</a>
+-->
 
 
 <!--
