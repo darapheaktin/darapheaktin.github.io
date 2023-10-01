@@ -32,6 +32,7 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 **Download here:**
 <pre>
 <a href="https://doi.org/10.1111/1475-4932.12723">Full article (Economic Record, 2023) </a> 
+<a href="/pdf/Economic Record - Tin and Tran 2023 - Lifecycle Earnings Risk and Insurance  New Evidence from Australia__Technical Appendix.pdf">Tecnical Appendix</a>
 <a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf">Slides (11/2022)</a>
 </pre>
 
