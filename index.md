@@ -64,7 +64,7 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran2023__Aggregate Implications of Child-Related Transfers with Means Testing_08102023_v2.pdf"> Working paper (30/09/2023) </a> 
+<a href="/pdf/TinTran2023__Aggregate Implications of Child-Related Transfers with Means Testing_08102023_v2.pdf"> Working paper (08/10/2023) </a> 
 </pre>
 
 <!-- 
