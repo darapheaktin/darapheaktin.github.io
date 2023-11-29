@@ -60,7 +60,9 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 *RSE Macro Study Group* (ANU); 
 *21st Annual SAET Conference* (ANU);
 *RSE Annual PhD Workshop 2022* (ANU); 
-*17th Western Economics Association International (WEAI) 2023 Conference.
+*17th Western Economics Association International (WEAI) 2023 Conference (University of Melbourne)*; 
+*37th PhD Conference in Economics and Business 2023 (University of Melbourne)*.
+
 
 **Download here:**
 <pre>
