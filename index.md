@@ -78,6 +78,7 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 **Authors**: *Darapheak Tin*
 
 ***Abstract***: Abstract Means-tested child-related transfers make it possible to deliver large benefits to low-income parents at a low fiscal cost relative to a universal scheme. Additional instruments such as multi-tier means-test and socioeconomic and demographic targets have been utilized to further this objective. Meanwhile, the complexity has produced (i) non-linear and non-monotone effective marginal tax rate (EMTR) schedules, (ii) heterogeneity the EMTR schedules faced by different targeted groups, and (iii) prohibitively high EMTR over the income and life cycle profiles. As a result, the implied work incentive effects could adversely affect lifetime labor supply and lead to differential lifetime earnings. The consequent loss of welfare and increased lifetime earnings inequality between the target and non-target groups might outweigh the positive insurance effect and defeat the purpose of the transfer system. Should government opt for simpler means-testing rules? If so, how should they be designed? We explore these questions using three metrics: efficiency, welfare and distribution of welfare gain (or, equity). We provide new insights from the Australian policy settings.
+
 **Paper presentations to date**: 
 *RSE Macro Seminar (Upcoming)* (ANU).
 
