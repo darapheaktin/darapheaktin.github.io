@@ -66,7 +66,7 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran2024__Aggregate Implications of Child-Related Transfers with Means Testing_31032024.pdf"> Working paper (31/03/2024) </a> 
+<a href="/pdf/TinTran2024__Aggregate Implications of Child-Related Transfers with Means Testing_25042024.pdf"> Working paper (25/04/2024) </a> 
  <a href="/pdf/TinTran2023__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_PhD Conference_slides.pdf">Slides (20/11/2023)</a>
 </pre>
 
@@ -80,7 +80,7 @@ We study the nature of earnings dynamics by documenting higher-order moments of 
 ***Abstract***: Means-tested child-related transfers offer a cost-effective method of providing benefits to low-income families, achieving fiscal savings not possible with universal schemes. To further this objective, additional instruments such as multi-tier family-income tests and demographic targeting are employed. However, the complexity of these criteria introduces several challenges, including prohibitively high effective marginal tax rates (EMTR) for low-income mothers, non-monotonic EMTR schedules, and variations in EMTR schedules across different demographic groups. Such factors could discourage work, impact lifetime labor supply, and contribute to disparities in lifetime earnings between targeted and non-targeted groups. This raises the question: Should governments opt for simpler means-testing rules, and if so, how should these be designed? Grounded in the Australian policy setting, we develop a dynamic general equilibrium model that incorporates households with varying marital statuses and children, endogenous female labor supply and human capital, and idiosyncratic earnings shocks. Utilizing this model, we characterize the optimal means-tested child-related transfer system and quantify its impact on macroeconomic aggregates, welfare, and redistribution.
 
 **Paper presentations to date**: 
-*RSE Macro Seminar (Upcoming)* (ANU).
+*RSE Macro Seminar 2024* (ANU).
 
 <!-- 
 <a href="/pdf/TinTran2023_WP__Aggregate Implications of Child Related Transfers with Means Testing__WEAI__slides.pdf">Slides (04/2023)</a>
