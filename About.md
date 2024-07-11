@@ -3,11 +3,8 @@
 
 # About 
 
-Thank you for visiting my personal website! 
+I am a fifth-year PhD candidate at the Research School of Economics at the Australian National University. My primary interests are Macroeconomics, Public Finance, and Labor Economics. My research centers on utilizing micro-founded macroeconomic models to quantitatively examine the aggregate, distributive, and behavioural impacts of fiscal policies.
 
-I am a fifth-year PhD candidate in the Research School of Economics of the Australian National University. My primary interest is in Macroeconomics, particularly how macro phenomena can be understood through the lens of life cycle factors, demographic structure and government policies.
-
-Economics is a lifelong friend. Along with my research, reading economics is my hobby. My top favourite book so far is *Free to Choose* by Milton Friedman.
 <br>
 
 <!---
@@ -23,14 +20,15 @@ Since my time as an undergraduate, I have been working on a personal project, [E
 
 - Fortran (intermediate, regularly used)
 - MATLAB (intermediate, sometimes used) 
-- Pythton (intermediate, rarely used)
+- Pythton (intermediate, sometimes used)
 - STATA (intermediate, regularly used) 
 - R (elementary, rarely used) 
 <br>
 <br>
 
 **Some favourite econ books** 
-
+Economics is a lifelong friend. Along with my research, reading economics is my hobby. My most favourite book thus far is *Free to Choose* by Milton Friedman.
+<br>
 Reading for pleasure: 
 1. *Free to Choose* by Milton Friedman
 2. The Naked series (*Naked Statistics; Naked Economics; Naked Money*) by Charles Wheelan 
@@ -43,7 +41,7 @@ Reading for building technical understanding and skills in economic research:
 <br>
 <br>
 
-**Hobbies**
+**Other hobbies**
 
 1. Economics
 2. Economics
