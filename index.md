@@ -23,7 +23,7 @@
 **Download here:**
 <pre>
 <a href="/pdf/TinTran2024__Aggregate Implications of Child-Related Transfers with Means Testing_WP2024_0614.pdf"> Working paper (14/06/2024) </a> 
- <a href="/pdf/TinTran2023__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_PhD Conference_slides.pdf">Slides (20/11/2023)</a>
+ <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_CEF__final.pdf"> Slides (19/06/2024)</a>
 </pre>
 
 <br>
