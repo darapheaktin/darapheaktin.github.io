@@ -16,7 +16,8 @@
 *17th Western Economics Association International (WEAI) 2023 Conference (University of Melbourne)*; 
 *37th PhD Conference in Economics and Business 2023 (University of Melbourne)*; 
 *SCE 30th International Conference on Computing in Economics and Finance (CEF) 2024 (Nanyang Technological University, Singapore)*;
-*Australian Conference of Economists (ACE) 2024 (University of Adelaide)*.
+*Australian Conference of Economists (ACE) 2024 (University of Adelaide)*; 
+*Labour Econometrics Workshop (LEW) 2024 (University of Queensland)*.
 
 
 **Download here:**
