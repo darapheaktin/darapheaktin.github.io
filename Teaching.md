@@ -3,7 +3,7 @@
 
 # Teaching Experience
 
-I previously held the position of Associate Lecturer at the Research School of Economics at the Australian National University (ANU). I have taught various courses related to macroeconomics and public economics with SELT (student evaluation) scores consistently above 4.5.
+I previously held the position of Associate Lecturer at the Research School of Economics at the Australian National University (ANU). I have taught various courses related to macroeconomics and public economics with SELT (student evaluation) scores consistently above 4.5/5.
 
 I have also worked as a teaching assistant in economics for the College of Business and Economics (CBE) and the College of Arts and Social Sciences (CASS) at the ANU. 
 
