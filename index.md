@@ -3,11 +3,11 @@
 
 # Working Papers 
 
-### Aggregate Implications of Child-Related Transfers with Means Testing
+### Aggregate and Distributive Implications of Child-Related Transfers with Means Testing
 
 **Authors**: *Darapheak Tin* and *Chung Tran*
 
-***Abstract***: Should government transfers to families with children be means-tested? We revisit this question and provide new insights from the unique Australian policy context, where means-testing is widely adopted to determine eligibility and benefits for child-related transfers. Using the Australian household survey data, HILDA (2001-2020), we document the significant role of these transfers and distinct life cycle patterns of female labor supply and earnings in Australia. We then build a dynamic general equilibrium overlapping generations model of single and married households to quantify the aggregate and redistributive implications of the current means-tested child-related transfer programs and alternative designs. Our findings reveal complex trade-offs among efficiency, overall welfare, and equity in designing an effective child-related transfer system. Specifically, we demonstrate the significant adverse effects of means-testing on work incentives and human capital development among women. A structural reform replacing the status quo means-tested system with a universal system improves efficiency and overall welfare, and garners majority support. However, the new regime increases tax burden and leads to unintended welfare consequences for single mothers—the intended beneficiaries—by reducing their lifetime take-home income and consumption. Adjusting the universal benefit rates does not resolve these inequities and may undermine government support for those in need. In contrast, incremental reforms to the current means-tested system, by relaxing the taper rate of the Child Care Subsidy (CCS) program, can enhance efficiency and achieve a fair distribution of welfare gains, albeit with modest aggregate improvements.
+***Abstract***: Should government transfers to families with children be means-tested? We revisit this question from the unique Australian policy context, where average means-tested child benefits comprise up to 40% of the gross total income of low-income households, coinciding with the distinct M-shaped life cycle profile of labor supply for Australian mothers (Household survey data, HILDA 2001-2020). Motivated by these empirical facts, we explore the aggregate and distributive implications of means-testing and alternative child benefit designs quantitatively through a dynamic general equilibrium overlapping generations model of single and married households with children. Our simulation results demonstrate the significant adverse effects of means-testing on work incentives and human capital development among mothers. A structural reform that replaces the status quo means-tested system with a universal system improves female labor supply, output, and overall welfare while also garnering majority support. However, the universal system increases tax burden by 4 percentage points and negatively impacts single mothers—the intended beneficiaries—by reducing their net lifetime income and welfare. In our model, inclusion of means-testing is essential for controlling fiscal costs and mitigating the adverse effects of higher taxes. Preserving the existing meanstested system and opting for incremental reforms could potentially result in modest improvements in output and welfare while ensuring a more equitable distribution of welfare gains. Hence, our findings highlight the complex trade-offs between efficiency and equity in designing child benefit programs.
 
 **Paper presentations to date**: 
 *RSE Macro Study Group* (ANU); 
@@ -22,7 +22,7 @@
 
 **Download here:**
 <pre>
-<a href="/pdf/TinTran2024__Aggregate Implications of Child-Related Transfers with Means Testing_WP2024_0614.pdf"> Working paper (14/06/2024) </a> 
+<a href="/pdf/TinTran2024_WP__Aggregate and Distribtive Implications of Means-tested Child Benefits__20240917.pdf"> Working paper (17/09/2024)</a> 
  <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_CEF__final.pdf"> Slides (19/06/2024)</a>
 </pre>
 
