@@ -2,7 +2,7 @@
  <br>
 
 # Job Market Paper 
-### On the Joint Optimal Design of Taxes and Child-Related Transfers (Updated Regularly)
+### On the Joint Optimal Design of Taxes and Child-Related Transfers (Update Regularly)
 
 **Author**: *Darapheak Tin*
 
