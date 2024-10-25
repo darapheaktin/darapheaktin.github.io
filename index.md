@@ -1,6 +1,42 @@
  [About](/About) &nbsp; | &nbsp; [Research](/index) &nbsp; | &nbsp; [Teaching](/Teaching) | &nbsp; [Fun stuff](/Fun stuff)
  <br>
 
+# Job Market Paper 
+### On the Joint Optimal Design of Taxes and Child-Related Transfers (Updated Regularly)
+
+**Author**: *Darapheak Tin*
+
+***Abstract***: Means-tested child benefits and progressive tax systems both aim to support low-income families, but
+they often create high and non-linear effective marginal tax rate schedules. This paper explores the joint
+design of these systems in a dynamic general equilibrium model with overlapping generations that captures
+household heterogeneity in family structure, female human capital formation, child-related costs, and uninsurable
+earnings and longevity risks. The model is calibrated to the the Australian economy (2012-2018),
+where means-tested child benefits constitute up to 40% of income for low-income households. I find that
+optimizing the tax system in isolation risks undermining the redistributive goals of child benefit programs.
+A joint design featuring low tax progressivity and a universal lump-sum child benefit of approximately
+30\% of median income (around AUD 18; 000) is optimal, significantly improving consumption allocative
+efficiency and overall welfare. However, the associated tax burden adversely impacts non-parent households,
+raising equity concerns. A less generous benefit, while not fully optimal, still provide welfare gains
+for parents and imposes considerably lower costs on non-parents. Conversely, overly generous child benefits
+lead to fiscal pressures that harm all households, including the intended beneficiaries. These findings highlight
+the importance of coordinating tax and child benefit policies to effectively support vulnerable parents,
+especially low-education single mothers.
+
+
+<!--
+Means-tested child-related transfers offer a cost-effective method of providing benefits to low-income families, achieving fiscal savings not possible with universal schemes. To further this objective, additional instruments such as multi-tier family-income tests and demographic targeting are employed. However, the complexity of these criteria introduces several challenges, including prohibitively high effective marginal tax rates (EMTR) for low-income mothers, non-monotonic EMTR schedules, and variations in EMTR schedules across different demographic groups. Such factors could discourage work, impact lifetime labor supply, and contribute to disparities in lifetime earnings between targeted and non-targeted groups. This raises the question: Should governments opt for simpler means-testing rules, and if so, how should these be designed? Grounded in the Australian policy setting, we develop a dynamic general equilibrium model that incorporates households with varying marital statuses and children, endogenous female labor supply and human capital, and idiosyncratic earnings shocks. Utilizing this model, we characterize the optimal means-tested child-related transfer system and quantify its impact on macroeconomic aggregates, welfare, and redistribution.
+-->
+
+**Paper presentations to date**: 
+*RSE Macro Seminar 2024* (ANU); 
+*Workshop by Australasian Macroeconomics Society (WAMS) and Laboratory for Aggregate Economics and Finance (LAEF) 2024* (scheduled).
+
+**Download here:**
+<pre>
+<a href="/pdf/JMP_DarapheakTin_2024.pdf"> Working paper (10/10/2024)</a> 
+</pre>
+
+
 # Working Papers 
 
 ### Aggregate and Distributive Implications of Child-Related Transfers with Means Testing
@@ -28,20 +64,6 @@
 
 <br>
 <br>
-
-### On the Joint Optimal Design of Taxes and Child-Related Transfers
-
-**Authors**: *Darapheak Tin*
-
-***Abstract***: Means-tested child-related transfers provide a cost-effective approach to supporting low-income families with dependent children. However, in a progressive tax regime, means-testing can significantly increase the effective marginal tax rate (EMTR) and expand the high-EMTR income zone for beneficiaries, especially secondary earners who are predominantly mothers, reducing their labor supply and lifetime earnings. This trade-off between short-term public benefits and lifetime earnings capacity makes characterizing the joint design of taxes and child-related transfers a crucial undertaking to achieve optimal welfare outcomes. For this purpose, this study employs a dynamic general equilibrium overlapping generations (OLG) model of households with varying marital and parental statuses, endogenous female labor supply and human capital formation, and uninsurable earnings shocks. The results, grounded in the Australian policy context, indicate that the joint optimal tax and child-related transfer system features moderate tax progressivity, means-tested subsidies, and universal lump sum transfers per child equivalent to 30% of the median income (approximately AU$18,000 in 2018). Nonetheless, due to the accompanying tax burden, the overall welfare improvement under the optimal system is driven by welfare gains for parents at the expense of non-parents, thus rendering the optimal system inequitable. Furthermore, quantitative results highlight distinct roles for lump sum transfers and subsidies: the former enhance welfare by increasing average level of consumption (consumption efficiency effect), while the latter relax labor supply constraints and allow for better distributive (equity) and insurance outcomes, thereby influencing the dynamics of income process and improving the ability to smooth consumption over time.
-
-
-<!--
-Means-tested child-related transfers offer a cost-effective method of providing benefits to low-income families, achieving fiscal savings not possible with universal schemes. To further this objective, additional instruments such as multi-tier family-income tests and demographic targeting are employed. However, the complexity of these criteria introduces several challenges, including prohibitively high effective marginal tax rates (EMTR) for low-income mothers, non-monotonic EMTR schedules, and variations in EMTR schedules across different demographic groups. Such factors could discourage work, impact lifetime labor supply, and contribute to disparities in lifetime earnings between targeted and non-targeted groups. This raises the question: Should governments opt for simpler means-testing rules, and if so, how should these be designed? Grounded in the Australian policy setting, we develop a dynamic general equilibrium model that incorporates households with varying marital statuses and children, endogenous female labor supply and human capital, and idiosyncratic earnings shocks. Utilizing this model, we characterize the optimal means-tested child-related transfer system and quantify its impact on macroeconomic aggregates, welfare, and redistribution.
--->
-
-**Paper presentations to date**: 
-*RSE Macro Seminar 2024* (ANU).
 
 <!-- 
 <a href="/pdf/TinTran2023_WP__Aggregate Implications of Child Related Transfers with Means Testing__WEAI__slides.pdf">Slides (04/2023)</a>
