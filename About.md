@@ -2,27 +2,16 @@
  <br>
 
 # About 
-
-I am a fifth-year PhD candidate at the Research School of Economics at the Australian National University. My primary interests are Macroeconomics, Public Finance, and Labor Economics. My research centers on utilizing micro-founded macroeconomic models to quantitatively examine the aggregate, distributive, and behavioural impacts of fiscal policies.
-
+I am a fifth-year PhD candidate at the Research School of Economics at the Australian National University. My primary research fields are in Public Finance and Labor Economics, with strong ties to Macroeconomics and Computational Economics. My work centers on utilizing micro-founded macroeconomic models to quantitatively examine the aggregate, distributional, and behavioural impacts of fiscal policies.
 <br>
-
 <!---
 **Personal project**
-
 Since my time as an undergraduate, I have been working on a personal project, [Economind](http://economind.org), that focuses on writing educational and easily digestable economics articles. Due to my schedule, the project is on hold. Note that many articles need to be revised to improve the content quality as I gain more understanding of economics. My plan is to begin working on the project again early next year. More exciting update to come! 
 <br> 
  --> 
- 
-<br>
-
 **Research tools** 
-
-- Fortran (intermediate, regularly used)
-- MATLAB (intermediate, sometimes used) 
-- Pythton (intermediate, sometimes used)
-- STATA (intermediate, regularly used) 
-- R (elementary, rarely used) 
+Primary: Fortran and Stata (regularly used)
+Secondary: MATLAB (+ Dynare), Python and R
 <br>
 <br>
 
@@ -42,7 +31,6 @@ Reading for building technical understanding and skills in economic research:
 <br>
 
 **Other hobbies**
-
 1. Economics
 2. Economics
 3. Economics 
