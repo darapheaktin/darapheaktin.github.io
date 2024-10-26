@@ -3,7 +3,7 @@
 
 # CV (Academic)
 <pre>
-<a href="/pdf/DarapheakTin_CV.pdf"> CV  (26/10/2024)</a> 
+<a href="/pdf/DarapheakTin_CV.pdf"> Darapheak Tin's CV (26/10/2024)</a> 
 </pre>
 
 # About 
