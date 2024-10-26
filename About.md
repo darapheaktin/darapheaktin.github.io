@@ -10,9 +10,8 @@ Since my time as an undergraduate, I have been working on a personal project, [E
 <br> 
  --> 
 **Research tools** 
-Primary: Fortran and Stata (regularly used)
-Secondary: MATLAB (+ Dynare), Python and R
-<br>
+- Primary: Fortran and Stata (regularly used)
+- Secondary: MATLAB (+ Dynare), Python and R
 <br>
 
 **Some favourite econ books** 
