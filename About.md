@@ -1,6 +1,11 @@
  [About](/About) &nbsp; | &nbsp; [Research](/index) &nbsp; | &nbsp; [Teaching](/Teaching) | &nbsp; [Fun stuff](/Fun stuff)
  <br>
 
+# CV (Academic)
+<pre>
+<a href="/pdf/DarapheakTin_CV.pdf"> CV  (26/10/2024)</a> 
+</pre>
+
 # About 
 I am a fifth-year PhD candidate at the Research School of Economics at the Australian National University. My primary research fields are in Public Finance and Labor Economics, with strong ties to Macroeconomics and Computational Economics. My work centers on utilizing micro-founded macroeconomic models to quantitatively examine the aggregate, distributional, and behavioural impacts of fiscal policies.
 <br>
