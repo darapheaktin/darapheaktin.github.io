@@ -14,7 +14,9 @@ Since my time as an undergraduate, I have been working on a personal project, [E
 - Secondary: MATLAB (+ Dynare), Python and R
 <br>
 
+
 **Some favourite econ books** 
+
 Economics is a lifelong friend. Along with my research, reading economics is my hobby. My most favourite book thus far is *Free to Choose* by Milton Friedman.
 <br>
 Reading for pleasure: 
