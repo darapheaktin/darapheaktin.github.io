@@ -1,15 +1,19 @@
+/* Main content area styling */
 .main {
     position: relative;
     min-height: calc(100vh - var(--header-height) - var(--footer-height));
-    max-width: calc(var(--main-width) + var(--gap) * 2);
+    max-width: 1000px; /* Adjusted width for wider content area */
     margin: auto;
-    padding: var(--gap);
+    padding-left: 20px; /* Reduced padding on the left */
+    padding-right: 20px; /* Reduced padding on the right */
 }
 
+/* Page header */
 .page-header h1 {
     font-size: 40px;
 }
 
+/* Pagination styling */
 .pagination {
     display: flex;
 }
@@ -27,6 +31,7 @@
     margin-inline-start: auto;
 }
 
+/* Social icon styling */
 .social-icons {
     padding: 12px 0;
 }
@@ -40,6 +45,7 @@
     width: 26px;
 }
 
+/* Code block styling */
 code {
     direction: ltr;
 }
@@ -69,11 +75,11 @@ pre:hover .copy-code {
 
 /* Custom styling for profile links */
 .profile_inner p a {
-    color: #0056b3; /* Customize link color */
-    font-weight: 500;
+    color: #0056b3; /* Customized link color */
+    font-weight: 600; /* Slightly bolder for emphasis */
     text-decoration: none;
-    padding: 0 5px; /* Adds space between links */
-    transition: color 0.3s ease; /* Smooth hover effect */
+    padding: 0 5px; /* Space between links */
+    transition: color 0.2s ease-in-out; /* Smooth hover effect */
 }
 
 .profile_inner p a:hover {
@@ -83,6 +89,6 @@ pre:hover .copy-code {
 
 .profile_inner p {
     margin-top: 10px;
-    font-size: 0.95em; /* Adjust font size */
+    font-size: 1em; /* Consistent font size */
     text-align: center; /* Center-align links */
 }
