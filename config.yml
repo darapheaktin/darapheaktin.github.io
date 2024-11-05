@@ -19,13 +19,7 @@ menu:
       url: /teaching/
       weight: 2
     - name: Other
-      url: /other/
-    # - name: Teaching
-    #   url: /teaching/
-    #   weight: 4
-    # - name: Archive
-    #   url: /archive/
-    #   weight: 5
+      url: /other/`
 
 params:
   description: "I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market. 
@@ -55,22 +49,14 @@ My research explores the aggregate, distributional, and behavioral impacts of fi
   profileMode:
     enabled: true
     title: Darapheak Tin
-    subtitle: "I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market. 
+    subtitle: |
+      I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market.
 
-     <br><br>
+      Inspired by the adage “*the road to hell is paved with good intentions*,” I am interested in how welfare policies impact economic outcomes and intended beneficiaries. By modeling behavioral responses and the tax burdens needed to finance these policies, my research explores their aggregate, distributional, and behavioral impacts through micro-founded macroeconomic models. With a blend of single and collaborative empirical and quantitative projects, I aim to contribute meaningful insights to pressing economic questions. In addition to my research, I bring extensive teaching experience with high performance ratings since 2018.
 
-    Inspired by the adage “***the road to hell is paved with good intentions***,” I am interested in how welfare policies impact economic outcomes and intended beneficiaries. 
-    By modeling behavioral responses and the tax burdens needed to finance these policies, my research explores their aggregate, distributional, and behavioral impacts through micro-founded macroeconomic models. 
-    With a blend of single and collaborative empirical and quantitative projects, I aim to contribute meaningful insights to pressing economic questions. 
-    In addition to my research, I bring extensive teaching experience with high performance ratings since 2018.
+      Thank you for visiting my webpage.
+      I am rebuilding the webpage and will get it up and running soon.
 
-     <br> <br>
-
-     Thank you for visiting my webpage.
-     <br> <br>
-     I am rebuilding the webpage and will get it up and running soon.
-     <br> <br>
-     "
     imageUrl: "/darapheaktin_photo.png"
     imageWidth: 180
     imageHeight: 180
@@ -82,18 +68,10 @@ My research explores the aggregate, distributional, and behavioral impacts of fi
         url: /teaching/
       - name: Other
         url: /other/
-      # - name: News
-      #   url: /news/
 
   social:
     - name: CV
       url: "/DarapheakTin_CV.pdf"
-    # - name: LinkedIn
-    #   url: "https://www.linkedin.com/in/samia-kabir/"
-    # - name: Google Scholar
-    #   url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
-    # - name: GitHub
-    #   url: "https://github.com/SamiaKabir"
     - name: Email
       url: "mailto:darapheak.tin@anu.edu.au"
 
@@ -119,7 +97,3 @@ markup:
     endLevel: 2
     ordered: false
     startLevel: 2
-# max number of characters:
-# * title: 70
-# * description: 120–155
-# * summary: 265

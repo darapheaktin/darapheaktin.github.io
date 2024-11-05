@@ -35,9 +35,9 @@ description: "***Economic models start the questions; empirical evidence brings 
 
   <br>
 
-    * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
-    * <a href="/pdf/Economic_Record_Tin_and_Tran_2023_Technical_Appendix.pdf" target="_blank">Technical Appendix</a>  
-    * <a href="/pdf/Lifecycle_Earnings_Risk_Slides.pdf" target="_blank">Slides (11/2022)</a>
+* <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
+* <a href="/pdf/Economic_Record_Tin_and_Tran_2023_Technical_Appendix.pdf" target="_blank">Technical Appendix</a>  
+* <a href="/pdf/Lifecycle_Earnings_Risk_Slides.pdf" target="_blank">Slides (11/2022)</a>
 
   <br>
 
