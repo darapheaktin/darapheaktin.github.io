@@ -66,3 +66,23 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+/* Custom styling for profile links */
+.profile_inner p a {
+    color: #0056b3; /* Customize link color */
+    font-weight: 500;
+    text-decoration: none;
+    padding: 0 5px; /* Adds space between links */
+    transition: color 0.3s ease; /* Smooth hover effect */
+}
+
+.profile_inner p a:hover {
+    color: #003366; /* Darker color on hover */
+    text-decoration: underline;
+}
+
+.profile_inner p {
+    margin-top: 10px;
+    font-size: 0.95em; /* Adjust font size */
+    text-align: center; /* Center-align links */
+}
