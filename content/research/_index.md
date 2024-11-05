@@ -3,7 +3,7 @@ title: "Research"
 description: "***Economic models start the questions; empirical evidence brings the answers.***"
 ---
 
-## Job Market Paper
+# Job Market Paper
 
 ### On the Joint Optimal Design of Taxes and Child-Related Transfers
 
@@ -24,7 +24,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 <br>
 <br>
 
-## Publications
+# Publications
 
 ### ["Lifecycle Earnings Risk and Insurance: New Evidence from Australia"](https://doi.org/10.1111/1475-4932.12723)
 
@@ -36,7 +36,7 @@ description: "***Economic models start the questions; empirical evidence brings 
   <br>
 
 * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
-* <a href="/pdf/Economic_Record_Tin_and_Tran_2023_Technical_Appendix.pdf" target="_blank">Technical Appendix</a>  
+* <a href="/pdf/Economic Record - Tin and Tran 2023 - Lifecycle Earnings Risk and Insurance  New Evidence from Australia__Technical Appendix.pdf" target="_blank">Technical Appendix</a>  
 * <a href="/pdf/Lifecycle_Earnings_Risk_Slides.pdf" target="_blank">Slides (11/2022)</a>
 
   <br>
@@ -53,7 +53,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 
 ---
 
-## Working Papers
+# Working Papers
 
 ### Child-Related Transfers, Means Testing, and Welfare
 
