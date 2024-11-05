@@ -19,7 +19,7 @@ Inspired by the adage â€œ***the road to hell is paved with good intentions***,â€
 
 <br>
 
-* Download [Job Market Paper (10/10/2024)](/pdf/JMP_DarapheakTin_2024.pdf){:target="_blank"}
+* Download <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (10/10/2024)</a>
 
 <br>
 
