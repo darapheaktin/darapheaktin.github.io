@@ -19,12 +19,11 @@ menu:
       url: /teaching/
       weight: 2
     - name: Other
-      url: /other/`
+      url: /other/
 
 params:
   description: "I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market. 
-
-My research explores the aggregate, distributional, and behavioral impacts of fiscal policies through micro-founded macroeconomic models grounded in strong empirical foundations. With a blend of single and collaborative projects, I aim to contribute meaningful insights to pressing economic questions. In addition to my research, I bring extensive teaching experience with high performance ratings since 2018."
+  My research explores the aggregate, distributional, and behavioral impacts of fiscal policies through micro-founded macroeconomic models grounded in strong empirical foundations. With a blend of single and collaborative projects, I aim to contribute meaningful insights to pressing economic questions. In addition to my research, I bring extensive teaching experience with high performance ratings since 2018."
   author: Darapheak Tin
   googleAnalyticsID: "UA-213732110-1"
   DateFormat: "November 2024"
@@ -52,10 +51,19 @@ My research explores the aggregate, distributional, and behavioral impacts of fi
     subtitle: |
       I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market.
 
+      <br>
+
       Inspired by the adage “*the road to hell is paved with good intentions*,” I am interested in how welfare policies impact economic outcomes and intended beneficiaries. By modeling behavioral responses and the tax burdens needed to finance these policies, my research explores their aggregate, distributional, and behavioral impacts through micro-founded macroeconomic models. With a blend of single and collaborative empirical and quantitative projects, I aim to contribute meaningful insights to pressing economic questions. In addition to my research, I bring extensive teaching experience with high performance ratings since 2018.
 
+      <br> 
+
       Thank you for visiting my webpage.
-      I am rebuilding the webpage and will get it up and running soon.
+
+      <br> 
+
+      I am rebuilding the website. There are some errors that will be fixed soon.
+
+      <br>
 
     imageUrl: "/darapheaktin_photo.png"
     imageWidth: 180
