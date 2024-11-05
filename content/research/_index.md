@@ -35,15 +35,15 @@ Inspired by the adage “***the road to hell is paved with good intentions***,�
 ### ["Lifecycle Earnings Risk and Insurance: New Evidence from Australia"](https://doi.org/10.1111/1475-4932.12723)
 
 **Authors**: Darapheak Tin and Chung Tran  
-**Published in**: *Economic Record*, 2023.
+**Published**: *Economic Record*, 2023.
 
   ***Abstract***: This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital, and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.
 
   <br>
 
-  * [Full Article (Economic Record, 2023)](https://doi.org/10.1111/1475-4932.12723)  
-  * [Technical Appendix](/pdf/Economic_Record_Tin_and_Tran_2023_Technical_Appendix.pdf)  
-  * [Slides (11/2022)](/pdf/Lifecycle_Earnings_Risk_Slides.pdf)
+    * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
+    * <a href="/pdf/Economic_Record_Tin_and_Tran_2023_Technical_Appendix.pdf" target="_blank">Technical Appendix</a>  
+    * <a href="/pdf/Lifecycle_Earnings_Risk_Slides.pdf" target="_blank">Slides (11/2022)</a>
 
   <br>
 
@@ -68,8 +68,12 @@ Inspired by the adage “***the road to hell is paved with good intentions***,�
 
 **Abstract**: Should government transfers to families with children be means-tested? We revisit this question from the unique Australian policy context, where average means-tested child benefits comprise up to 40% of the gross total income of low-income households, coinciding with the distinct M-shaped life cycle profile of labor supply for Australian mothers (Household survey data, HILDA 2001-2020). Motivated by these empirical facts, we explore the aggregate and distributive implications of means-testing and alternative child benefit designs quantitatively through a dynamic general equilibrium overlapping generations model of single and married households with children. Our simulation results demonstrate the significant adverse effects of means-testing on work incentives and human capital development among mothers. A structural reform that replaces the status quo means-tested system with a universal system improves female labor supply, output, and overall welfare while also garnering majority support. However, the universal system increases tax burden by 4 percentage points and negatively impacts single mothers—the intended beneficiaries—by reducing their net lifetime income and welfare. In our model, the inclusion of means-testing is essential for controlling fiscal costs and mitigating the adverse effects of higher taxes. Preserving the existing means-tested system and opting for incremental reforms could potentially result in modest improvements in output and welfare while ensuring a more equitable distribution of welfare gains. Hence, our findings highlight the complex trade-offs between efficiency and equity in designing child benefit programs.
 
-* Download [Working Paper (17/09/2024)](/pdf/TinTran2024_WP__Aggregate_and_Distributive_Implications_of_Means_tested_Child_Benefits_20240917.pdf)  
-* Download [Slides (06/2024)](/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_CEF_final.pdf)
+  <br>
+
+* Download <a href="/pdf/TinTran2024_WP__Aggregate_and_Distributive_Implications_of_Means_tested_Child_Benefits_20240917.pdf" target="_blank">Working Paper (17/09/2024)</a>  
+* Download <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_CEF_final.pdf" target="_blank">Slides (06/2024)</a>
+
+  <br>
 
 * **Paper Presentations to Date**:  
 - *RSE Macro Study Group* (ANU)  
