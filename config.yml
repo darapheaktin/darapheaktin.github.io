@@ -28,7 +28,6 @@ menu:
     #   weight: 5
 
 params:
-  customCSS: ["css/custom.css"]
   description: "I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market. 
 
 My research explores the aggregate, distributional, and behavioral impacts of fiscal policies through micro-founded macroeconomic models grounded in strong empirical foundations. With a blend of single and collaborative projects, I aim to contribute meaningful insights to pressing economic questions. In addition to my research, I bring extensive teaching experience with high performance ratings since 2018."
