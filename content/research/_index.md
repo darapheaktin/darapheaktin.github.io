@@ -1,10 +1,10 @@
 ---
 title: "Research"
 description: "***Economic models start the questions; empirical evidence brings the answers.***"
-#layout: "research"  # We’ll create this custom layout in Step 3
 ---
 
 <br>
+
 Inspired by the adage “***the road to hell is paved with good intentions***,” my research explores how welfare policies like child benefits impact economic outcomes and recipients themselves. By modeling behavioral responses and the tax burdens needed to finance these policies, I study how to design welfare programs that achieve genuine support, balancing efficiency and equity to help vulnerable populations effectively.
 
 <br>
@@ -18,7 +18,9 @@ Inspired by the adage “***the road to hell is paved with good intentions***,�
 ***Abstract***: Means-tested child benefits and progressive tax systems both aim to support low-income families, but they often create high and non-linear effective marginal tax rate schedules. This paper explores the joint design of these systems in a dynamic general equilibrium model with overlapping generations that captures household heterogeneity in family structure, education, female human capital formation, child-related costs, and uninsurable earnings and longevity risks. The model is calibrated to the Australian economy (2012-2018), where means-tested lump sum child benefits constitute up to 40% of income for low-income households. I find that optimizing the tax system in isolation risks undermining the redistributive goals of child benefit programs. A joint design featuring low tax progressivity and a universal lump-sum child benefit of approximately 30% of median income (around AUD 18,000 in 2018) is optimal, significantly improving consumption allocative efficiency and overall welfare. However, the associated tax burden adversely impacts non-parent households, raising equity concerns. A less generous benefit, while not fully optimal, still provides welfare gains for parents and imposes considerably lower costs on non-parents. Conversely, overly generous child benefits lead to fiscal pressures that harm all households, including the intended beneficiaries. These findings highlight the importance of coordinating tax and child benefit policies to effectively support vulnerable parents, especially low-education single mothers.
 
 <br>
+
 * Download [Job Market Paper (10/10/2024)](/pdf/JMP_DarapheakTin_2024.pdf){:target="_blank"}
+
 <br>
 
 * **Paper Presentations to Date**:  
@@ -38,9 +40,11 @@ Inspired by the adage “***the road to hell is paved with good intentions***,�
   ***Abstract***: This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital, and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.
 
   <br>
+
   * [Full Article (Economic Record, 2023)](https://doi.org/10.1111/1475-4932.12723)  
   * [Technical Appendix](/pdf/Economic_Record_Tin_and_Tran_2023_Technical_Appendix.pdf)  
   * [Slides (11/2022)](/pdf/Lifecycle_Earnings_Risk_Slides.pdf)
+
   <br>
 
 * **Paper Presentations to Date**:  
