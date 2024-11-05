@@ -3,12 +3,6 @@ title: "Research"
 description: "***Economic models start the questions; empirical evidence brings the answers.***"
 ---
 
-<br>
-
-Inspired by the adage “***the road to hell is paved with good intentions***,” my research explores how welfare policies like child benefits impact economic outcomes and recipients themselves. By modeling behavioral responses and the tax burdens needed to finance these policies, I study how to design welfare programs that achieve genuine support, balancing efficiency and equity to help vulnerable populations effectively.
-
-<br>
-
 ## Job Market Paper
 
 ### On the Joint Optimal Design of Taxes and Child-Related Transfers

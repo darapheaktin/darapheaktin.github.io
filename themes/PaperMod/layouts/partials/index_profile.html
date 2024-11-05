@@ -32,6 +32,15 @@
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
+
+        <!-- Added links to CV, Teaching Statement, and Research Statements -->
+        <p>
+            <a href="/pdf/DarapheakTin_CV.pdf" target="_blank">Download CV</a> |
+            <a href="/pdf/DarapheakTin__Teaching_Statement.pdf" target="_blank">Download Teaching Statement</a> |
+            <a href="/pdf/DarapheakTin__Research_Statement_Summary.pdf" target="_blank">Download Research Statement (Summary)</a> |
+            <a href="/pdf/DarapheakTin__Research_Statement_Comprehensive.pdf" target="_blank">Download Research Statement (Comprehensive)</a>
+        </p>
+
         {{- partial "social_icons.html" site.Params.socialIcons -}}
 
         {{- with .buttons }}
@@ -54,5 +63,5 @@
         </div>
         {{- end }}
     </div>
-    {{- end}}
+    {{- end }}
 </div>
