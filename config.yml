@@ -99,7 +99,6 @@ params:
     text: "Darapheak Tin"
     icon: /favicon.ico
     iconHeight: 18
-  customCSS: ["css/custom.css"]
 
 markup:
   goldmark:
