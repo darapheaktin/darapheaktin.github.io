@@ -12,11 +12,13 @@ description: "***Economic models start the questions; empirical evidence brings 
 <div style="font-size:16px;">
 Means-tested child benefits and progressive tax systems both aim to support low-income families, but often create high and non-linear effective marginal tax rate schedules. This paper explores the joint optimization of these systems within a dynamic general equilibrium model of overlapping generations, calibrated to Australia (2012-2018). The model incorporates household heterogeneity in family structure, age and number of children, female human capital, and uninsurable earnings risks. I find that a standalone optimal tax system would reduce tax progressivity, encouraging labor supply among highly educated women but increasing tax liabilities on low-income parents, thus undermining the objectives of child benefit programs. A jointly optimized system combines low tax progressivity and a universal lump-sum child benefit equal to 30% of median income (around AUD 18,000 in 2018), partly to offset the additional tax burdens on low-income parents. This integrated approach substantially improves overall and parental welfare, but non-parent households bear notable losses. A moderately reduced benefit, while not optimal, achieves welfare gains for parents with lower costs to non-parents. These findings highlight the importance of coordinating tax and child benefit policies to effectively support vulnerable parents, while cautioning against equity losses for non-parents when policies are optimized solely for overall welfare.
 
-<br style="margin: 10px 0;">
+<br style="margin: 30px 0;">
 
 <b><i>Paper Presentations to Date:</i></b>  
 - <i>RSE Macro Seminar 2024</i> (ANU)  
 - <i>Workshop by Australasian Macroeconomics Society (WAMS) and Laboratory for Aggregate Economics and Finance (LAEF) 2024</i> (scheduled)
+
+<br style="margin: 10px 0;">
 
  <b><i>Download:</i></b> 
 * <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (10/10/2024)</a>
@@ -81,7 +83,6 @@ Should government transfers to families with children be means-tested? We revisi
 * <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_CEF_final.pdf" target="_blank">Slides (06/2024)</a>
 </div>
 
-<br>
 
 ## Sustained Growth and Income Dynamics in Australia
 
@@ -92,6 +93,7 @@ Should government transfers to families with children be means-tested? We revisi
 What do we know about income growth in Australia? How are incomes distributed, and how do earners move within the income distribution? What does this tell us about income inequality and income mobility over time and over the life cycle, and for different demographic groups? This research addresses these questions through the lenses of Australian administrative data (ALIFE and PLIDA) and household survey data (HILDA).
 </div>
 
+<br><br>
 
 <!--
 Means-tested child benefits and progressive tax systems both aim to support low-income families, but they often create high and non-linear effective marginal tax rate schedules. This paper explores the joint design of these systems in a dynamic general equilibrium model with overlapping generations that captures household heterogeneity in family structure, education, female human capital formation, child-related costs, and uninsurable earnings and longevity risks. The model is calibrated to the Australian economy (2012-2018), where means-tested lump sum child benefits constitute up to 40% of income for low-income households. I find that optimizing the tax system in isolation risks undermining the redistributive goals of child benefit programs. A joint design featuring low tax progressivity and a universal lump-sum child benefit of approximately 30% of median income (around AUD 18,000 in 2018) is optimal, significantly improving consumption allocative efficiency and overall welfare. However, the associated tax burden adversely impacts non-parent households, raising equity concerns. A less generous benefit, while not fully optimal, still provides welfare gains for parents and imposes considerably lower costs on non-parents. Conversely, overly generous child benefits lead to fiscal pressures that harm all households, including the intended beneficiaries. These findings highlight the importance of coordinating tax and child benefit policies to effectively support vulnerable parents, especially low-education single mothers.
