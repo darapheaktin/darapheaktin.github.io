@@ -32,9 +32,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 **Authors**: Darapheak Tin and Chung Tran  
 **Published**: *Economic Record*, 2023.
 
-  ***Abstract***: <font size="4">This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital, and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.</font>
-
-  <br>
+  <font size="3">This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital, and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.</font>
 
 ***Paper Presentations to Date***:  
 - *A-Life Conference 2021* (Crawford School of Public Policy, ANU)  
@@ -43,8 +41,6 @@ description: "***Economic models start the questions; empirical evidence brings 
 - *Treasury 2022*  
 - *Tax and Transfer Policy Institute (TTPI) 2022* (ANU)  
 - *Australian Labour Market Research (ALMR) Workshop 2022* (ANU)
-
-  <br>
 
 ***Download***: 
 * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
