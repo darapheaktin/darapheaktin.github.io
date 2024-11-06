@@ -35,7 +35,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 <div style="font-size:16px;">
   This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital, and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.
 
-<br>
+<br><br>
 
 <b>Paper Presentations to Date:</b>
   - <i>A-Life Conference 2021</i> (Crawford School of Public Policy, ANU)  
@@ -45,9 +45,7 @@ description: "***Economic models start the questions; empirical evidence brings 
   - <i>Tax and Transfer Policy Institute (TTPI) 2022</i> (ANU)  
   - <i>Australian Labour Market Research (ALMR) Workshop 2022</i> (ANU)
 
-<br>
-
-<b>Download***:</b>
+<b>Download:</b>
 * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
 * <a href="/pdf/Economic Record - Tin and Tran 2023 - Lifecycle Earnings Risk and Insurance  New Evidence from Australia__Technical Appendix.pdf" target="_blank">Technical Appendix</a>  
 * <a href="/pdf/Lifecycle_Earnings_Risk_Slides.pdf" target="_blank">Slides (11/2022)</a>
