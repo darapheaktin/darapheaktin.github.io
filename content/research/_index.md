@@ -5,7 +5,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 
 # Job Market Paper
 
-### On the Joint Optimal Design of Taxes and Child-Related Transfers
+## On the Joint Optimal Design of Taxes and Child-Related Transfers
 
 **Author**: Darapheak Tin
 
@@ -27,7 +27,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 
 # Publications
 
-### ["Lifecycle Earnings Risk and Insurance: New Evidence from Australia"](https://doi.org/10.1111/1475-4932.12723)
+## ["Lifecycle Earnings Risk and Insurance: New Evidence from Australia"](https://doi.org/10.1111/1475-4932.12723)
 
 **Authors**: Darapheak Tin and Chung Tran  
 **Published**: *Economic Record*, 2023.
@@ -58,7 +58,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 
 # Working Papers
 
-### Child-Related Transfers, Means Testing, and Welfare
+## Child-Related Transfers, Means Testing, and Welfare
 
 **Authors**: Darapheak Tin and Chung Tran  
 **Status**: Under Review (IER)
@@ -84,7 +84,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 
 <br><br>
 
-### Sustained Growth and Income Dynamics in Australia
+## Sustained Growth and Income Dynamics in Australia
 
 **Authors**: Darapheak Tin, Chung Tran, and Nabeeh Zakariyya  
 **Status**: Ongoing
