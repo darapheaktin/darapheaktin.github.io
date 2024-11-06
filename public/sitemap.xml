@@ -38,8 +38,12 @@
   </url><url>
     <loc>http://localhost:1313/news/</loc>
   </url><url>
+    <loc>http://localhost:1313/research/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/courses/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/</loc>
   </url>
 </urlset>
