@@ -18,8 +18,6 @@ description: ""
 * <a href="/pdf/DarapheakTin__Research_Statement_Comprehensive.pdf" target="_blank">Research Statement (Comprehensive) - 05/Nov/2024</a>   
 <span style="font-size:0.9em;">(An expanded overview of my five years of research, detailing the rationale behind my studies, data and modeling choices, and the empirical motivation for my future research plans.)</span>
 
-<br>
-
 ## Teaching Statement 
 
 * <a href="/pdf/DarapheakTin__Teaching_Statement.pdf" target="_blank">Teaching Statement - 05/Nov/2024</a>  
