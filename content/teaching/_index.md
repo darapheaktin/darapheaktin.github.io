@@ -83,7 +83,6 @@ My responsibilities in various roles have included:
 - Serving as subject coordinator, balancing academic integrity with student needs
 
 
-
 <!--
 With a dedication to fostering a deep understanding of economics and its real-world applications, I strive to create a motivating, supportive learning environment for all students. Through my diverse teaching experiences and commitment to student success, I aim to prepare students for informed decision-making that will shape their futures and positively impact their communities.
 
