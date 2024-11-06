@@ -51,7 +51,7 @@ Means-tested child benefits and progressive tax systems both aim to support low-
 <b><i>Download:</i></b>
 * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
 * <a href="/pdf/Economic Record - Tin and Tran 2023 - Lifecycle Earnings Risk and Insurance  New Evidence from Australia__Technical Appendix.pdf" target="_blank">Technical Appendix</a>  
-* <a href="/pdf/Lifecycle_Earnings_Risk_Slides.pdf" target="_blank">Slides (11/2022)</a>
+* <a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf" target="_blank">Slides (11/2022)</a>
 </div>
 
 ---
@@ -79,8 +79,8 @@ Should government transfers to families with children be means-tested? We revisi
 <div style="margin-top: 5px;"></div>
 
 <b><i>Download:</i></b>   
-* <a href="/pdf/TinTran2024_WP__Aggregate_and_Distributive_Implications_of_Means_tested_Child_Benefits_20240917.pdf" target="_blank">Working Paper (17/09/2024)</a>  
-* <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_CEF_final.pdf" target="_blank">Slides (06/2024)</a>
+* <a href="/pdf/TinTran2024_WP__Child-Related Transfers Means Testing and Welfare__30092024.pdf" target="_blank">Working Paper (17/09/2024)</a>  
+* <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_Slides_TTPI2024.pdf" target="_blank">Slides (06/2024)</a>
 </div>
 
 
