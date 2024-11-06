@@ -18,7 +18,7 @@ Means-tested child benefits and progressive tax systems both aim to support low-
 - <i>RSE Macro Seminar 2024</i> (ANU)  
 - <i>Workshop by Australasian Macroeconomics Society (WAMS) and Laboratory for Aggregate Economics and Finance (LAEF) 2024</i> (scheduled)
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 5px;"></div>
 
  <b><i>Download:</i></b> 
 * <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (10/10/2024)</a>
@@ -46,7 +46,7 @@ Means-tested child benefits and progressive tax systems both aim to support low-
   - <i>Tax and Transfer Policy Institute (TTPI) 2022</i> (ANU)  
   - <i>Australian Labour Market Research (ALMR) Workshop 2022</i> (ANU)
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 5px;"></div>
 
 <b><i>Download:</i></b>
 * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
@@ -76,7 +76,7 @@ Should government transfers to families with children be means-tested? We revisi
 - <i>Australian Conference of Economists (ACE) 2024</i> (University of Adelaide)  
 - <i>American Economic Association (AEA) 2025 Poster Session</i> (San Francisco, CA)
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 5px;"></div>
 
 <b><i>Download:</i></b>   
 * <a href="/pdf/TinTran2024_WP__Aggregate_and_Distributive_Implications_of_Means_tested_Child_Benefits_20240917.pdf" target="_blank">Working Paper (17/09/2024)</a>  
