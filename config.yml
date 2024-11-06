@@ -12,14 +12,18 @@ taxonomies:
 
 menu:
   main:
+    - name: CV and Statements
+      url: /cvstatements/
+      weight: 1
     - name: Research
       url: /research/
-      weight: 1
+      weight: 2
     - name: Teaching
       url: /teaching/
-      weight: 2
+      weight: 3
     - name: Other
       url: /other/
+      weight: 4
 
 params:
   description: "I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market. 
