@@ -74,6 +74,8 @@ params:
     imageHeight: 180
     imageTitle: Darapheak Tin
     buttons:
+      - name: CV and Statements
+        url: /cvstatements/
       - name: Research
         url: /research/
       - name: Teaching
