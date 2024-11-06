@@ -28,8 +28,9 @@ I have extensive teaching experience across a broad range of undergraduate and g
 ### College of Business and Economics (CBE), Australian National University (ANU)
 
 <div style="font-size:16px;">
+
 - <b>Microeconomics 1 (ECON1101)</b><br>
-  Instructor: Associate Professor Paul Chen  
+  Instructor: Associate Professor Paul Chen 
 
 - <b>Macroeconomics 1 (ECON1102)</b><br>
   Instructor: Dr. Cameron Gordon
@@ -51,13 +52,16 @@ I have extensive teaching experience across a broad range of undergraduate and g
 
 - <b>Mathematical Techniques for Economic Analysis (EMET7001)</b><br>
   Instructor: Dr. Reza Hajargasht
+  
 </div>
 
 ### College of Arts and Social Sciences (CASS), Australian National University (ANU)
 
 <div style="font-size:16px;">
+
 - <br>Public Choice and Politics (POLS2130)</b><br> 
-  Instructors: Distinguished Professor Keith Dowding and Dr. Shawn Treier  
+  Instructors: Distinguished Professor Keith Dowding and Dr. Shawn Treier 
+
 </div>
 
 
