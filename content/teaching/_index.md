@@ -6,59 +6,53 @@ description: ""
 # Teaching 
 
 ## Philosophy
+<div style="font-size:16px;">
 I believe in teaching economics as a foundation for critical thinking, where models serve as tools to structure thought and spark inquiry, highlighting channels for empirical exploration, rather than as objects of reverence. I offer strong support to struggling students, understanding firsthand the transformative impact of an inspiring teacher. My goal is to instill a genuine motivation for economics, emphasizing the essential complement between theory and evidence in meaningful investigation.
-
-<br>
-
----
+</div>
 
 ## Experience
-
+<div style="font-size:16px;">
 I have extensive teaching experience across a broad range of undergraduate and graduate courses in the College of Business and Economics (CBE) and the College of Arts and Social Sciences (CASS) at the Australian National University (ANU). Starting as a Teaching Assistant in 2018, I was appointed as an Associate Lecturer at the Research School of Economics in 2022-2023. Currently, I serve as a Head Teaching Assistant. Throughout my teaching career, I have consistently received high student evaluations, with SELT scores exceeding 4.5/5.
-
-<br>
-
----
+</div>
 
 ## Positions Held
 
-1. **Teaching Assistant** (2018 - 2021)
-2. **Associate Lecturer** (2022 - 2023)
-3. **Head Teaching Assistant** (2024)
+<div style="font-size:16px;">
+1. <b>Teaching Assistant</b> (2018 - 2021)
+2. <b>Associate Lecturer</b> (2022 - 2023)
+3. <b>Head Teaching Assistant</b> (2024)
+</div>
 
-<br>
+## Courses Taught
 
----
-
-## Courses Taught at ANU
-
-### College of Business and Economics (CBE)
-
-* **Microeconomics 1 (ECON1101)**  
+### College of Business and Economics (CBE), Australian National University (ANU)
+<div style="font-size:16px;">
+* <b>Microeconomics 1 (ECON1101)</b> 
   Instructor: Associate Professor Paul Chen  
 
-* **Macroeconomics 1 (ECON1102)**  
-  Instructor: Dr. Cameron Gordon  
+* <b>Macroeconomics 1 (ECON1102)</b>
+  Instructor: Dr. Cameron Gordon
 
-* **Economics 1 Honours (ECON1100)**  
-  Instructor: Dr. Dana Hanna, Associate Dean of Education  
+*  <b>Economics 1 Honours (ECON1100)</b>
+  Instructor: Dr. Dana Hanna, Associate Dean of Education
 
-* **Macroeconomics 2 (ECON2102)**  
-  Instructor: Associate Professor Chung Tran  
+*  <b>Macroeconomics 2 (ECON2102)</b>
+  Instructor: Associate Professor Chung Tran
 
-* **International Economics (ECON3103/ECON4415/ECON8015)**  
-  Instructor: Emeritus Professor Martin Ricardson  
+*  <b>International Economics (ECON3103/ECON4415/ECON8015)</b>
+  Instructor: Emeritus Professor Martin Richardson
 
-* **Economic Policy Issues (ECON3023/ECON4403/ECON8003)**  
-  Instructor: Emeritus Professor Robert G. Gregory  
+*  <b>Economic Policy Issues (ECON3023/ECON4403/ECON8003)</b>
+  Instructor: Emeritus Professor Robert G. Gregory
 
-* **Public Sector Economics (ECON2131/ECON4434/ECON8034)**  
-  Instructor: Associate Professor Maria Racionero  
+*  <b>Public Sector Economics (ECON2131/ECON4434/ECON8034)</b>
+  Instructor: Associate Professor Maria Racionero
 
-* **Mathematical Techniques for Economic Analysis (EMET7001)**  
-  Instructor: Dr. Reza Hajargasht  
+*  <b>Mathematical Techniques for Economic Analysis (EMET7001)</b>
+  Instructor: Dr. Reza Hajargasht
+</div>
 
-### College of Arts and Social Sciences (CASS)
+### College of Arts and Social Sciences (CASS), Australian National University (ANU)
 
 * **Public Choice and Politics (POLS2130)**  
   Instructors: Distinguished Professor Keith Dowding and Dr. Shawn Treier  
