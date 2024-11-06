@@ -5,10 +5,8 @@ description: ""
 
 <div style="font-size:16px;">
 
-<h2>About Me</h2>
+<h1>Further Information</h1>
 <p>Thanks for your interest! Here’s some more information about me.</p>
-
-<hr>
 
 <h2>Research Tools</h2>
 <ul>
