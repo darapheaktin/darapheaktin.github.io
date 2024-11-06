@@ -23,6 +23,11 @@ description: ""
 * <a href="/pdf/DarapheakTin__Teaching_Statement.pdf" target="_blank">Teaching Statement - 05/Nov/2024</a>  
 <span style="font-size:0.9em;">(This statement outlines my teaching philosophy, methodologies, and experience.)</span>
 
+## Personal Statement 
+
+* <a href="/pdf/DarapheakTin__Personal_Statement.pdf" target="_blank">Personal Statement - 06/Nov/2024</a>  
+<span style="font-size:0.9em;">(A personal reflection on my journey into economics.)</span>
+
 <!--
 <font size="3">(This summary research statement provides a summary of my research philosophy, motivation, current and future projects, and impact and relevance of my work.)</font>
 
