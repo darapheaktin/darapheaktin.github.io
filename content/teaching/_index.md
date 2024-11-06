@@ -18,54 +18,58 @@ I have extensive teaching experience across a broad range of undergraduate and g
 ## Positions Held
 
 <div style="font-size:16px;">
-1. <b>Teaching Assistant</b> (2018 - 2021)
-2. <b>Associate Lecturer</b> (2022 - 2023)
-3. <b>Head Teaching Assistant</b> (2024)
+1. <b>Teaching Assistant</b> (2018 - 2021)<br>
+2. <b>Associate Lecturer</b> (2022 - 2023)<br>
+3. <b>Head Teaching Assistant</b> (2024)<br>
 </div>
 
 ## Courses Taught
 
 ### College of Business and Economics (CBE), Australian National University (ANU)
+
 <div style="font-size:16px;">
-* <b>Microeconomics 1 (ECON1101)</b> 
+- <b>Microeconomics 1 (ECON1101)</b><br>
   Instructor: Associate Professor Paul Chen  
 
-* <b>Macroeconomics 1 (ECON1102)</b>
+- <b>Macroeconomics 1 (ECON1102)</b><br>
   Instructor: Dr. Cameron Gordon
 
-*  <b>Economics 1 Honours (ECON1100)</b>
+- <b>Economics 1 Honours (ECON1100)</b><br>
   Instructor: Dr. Dana Hanna, Associate Dean of Education
 
-*  <b>Macroeconomics 2 (ECON2102)</b>
+- <b>Macroeconomics 2 (ECON2102)</b><br>
   Instructor: Associate Professor Chung Tran
 
-*  <b>International Economics (ECON3103/ECON4415/ECON8015)</b>
+- <b>International Economics (ECON3103/ECON4415/ECON8015)</b><br>
   Instructor: Emeritus Professor Martin Richardson
 
-*  <b>Economic Policy Issues (ECON3023/ECON4403/ECON8003)</b>
+- <b>Economic Policy Issues (ECON3023/ECON4403/ECON8003)</b><br>
   Instructor: Emeritus Professor Robert G. Gregory
 
-*  <b>Public Sector Economics (ECON2131/ECON4434/ECON8034)</b>
+- <b>Public Sector Economics (ECON2131/ECON4434/ECON8034)</b><br>
   Instructor: Associate Professor Maria Racionero
 
-*  <b>Mathematical Techniques for Economic Analysis (EMET7001)</b>
+- <b>Mathematical Techniques for Economic Analysis (EMET7001)</b><br>
   Instructor: Dr. Reza Hajargasht
 </div>
 
 ### College of Arts and Social Sciences (CASS), Australian National University (ANU)
 
-* **Public Choice and Politics (POLS2130)**  
+<div style="font-size:16px;">
+- <br>Public Choice and Politics (POLS2130)</b><br> 
   Instructors: Distinguished Professor Keith Dowding and Dr. Shawn Treier  
+</div>
 
-<br>
-
----
 
 ## Other Responsibilities
-
+<div style="font-size:16px;">
 My teaching experience extends beyond the classroom, encompassing full course coordination and effective team management. In my roles as Associate Lecturer and Head Teaching Assistant, I organized course structures, coordinated and supported tutors, and liaised between the teaching team and students to ensure a smooth learning experience. I also handled sensitive academic cases that required balancing academic integrity, ethical standards, and empathy toward students’ unique situations—a role that often felt like walking on eggshells. Through these experiences, I have developed strong interpersonal skills and a commitment to creating a positive learning environment.
 
+<div style="margin-top: 20px;"></div>
+
 My responsibilities in various roles have included:
+
+<div style="margin-top: 5px;"></div>
 
 - Preparation and delivery of tutorials, lectures, workshops, and seminars
 - Coordination and support of sessional tutors
@@ -75,7 +79,7 @@ My responsibilities in various roles have included:
 - Development of course materials in collaboration with course coordinators
 - Administrative functions related to course organization
 - Serving as subject coordinator, balancing academic integrity with student needs
-
+</div>
 
 <!--
 With a dedication to fostering a deep understanding of economics and its real-world applications, I strive to create a motivating, supportive learning environment for all students. Through my diverse teaching experiences and commitment to student success, I aim to prepare students for informed decision-making that will shape their futures and positively impact their communities.
