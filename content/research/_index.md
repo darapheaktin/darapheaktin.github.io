@@ -12,13 +12,13 @@ description: "***Economic models start the questions; empirical evidence brings 
 <div style="font-size:16px;">
 Means-tested child benefits and progressive tax systems both aim to support low-income families, but often create high and non-linear effective marginal tax rate schedules. This paper explores the joint optimization of these systems within a dynamic general equilibrium model of overlapping generations, calibrated to Australia (2012-2018). The model incorporates household heterogeneity in family structure, age and number of children, female human capital, and uninsurable earnings risks. I find that a standalone optimal tax system would reduce tax progressivity, encouraging labor supply among highly educated women but increasing tax liabilities on low-income parents, thus undermining the objectives of child benefit programs. A jointly optimized system combines low tax progressivity and a universal lump-sum child benefit equal to 30% of median income (around AUD 18,000 in 2018), partly to offset the additional tax burdens on low-income parents. This integrated approach substantially improves overall and parental welfare, but non-parent households bear notable losses. A moderately reduced benefit, while not optimal, achieves welfare gains for parents with lower costs to non-parents. These findings highlight the importance of coordinating tax and child benefit policies to effectively support vulnerable parents, while cautioning against equity losses for non-parents when policies are optimized solely for overall welfare.
 
-<br style="margin: 30px 0;">
+<div style="margin-top: 10px;"></div>
 
 <b><i>Paper Presentations to Date:</i></b>  
 - <i>RSE Macro Seminar 2024</i> (ANU)  
 - <i>Workshop by Australasian Macroeconomics Society (WAMS) and Laboratory for Aggregate Economics and Finance (LAEF) 2024</i> (scheduled)
 
-<br style="margin: 10px 0;">
+<div style="margin-top: 10px;"></div>
 
  <b><i>Download:</i></b> 
 * <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (10/10/2024)</a>
