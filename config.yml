@@ -24,6 +24,9 @@ menu:
     - name: Other
       url: /other/
       weight: 4
+    - name: Contact 
+      url: /contact/
+      weight: 5
 
 params:
   description: "I am an economist researching at the crossroads of Public Finance, Labor Economics, Macroeconomics, and Computational Economics, integrating these fields to tackle complex economic questions. I am currently on the 2024-25 academic job market. 
@@ -57,11 +60,11 @@ params:
 
       <br>
 
-      <b>Research</b>: By modeling behavioral responses in a general equilibrium framework with rich household heterogeneity, my research explores the aggregate and distributional impacts of tax and transfer policies, focusing on their unintended consequences on the intended beneficiaries. With a blend of single and collaborative empirical and quantitative projects, my work contributes to the understanding of optimal policy design. I am also interested in extending this framework to study policy design in developing countries and to explore broader economic phenomena beyond policy analysis. 
+      <b>Research</b>: By modeling behavioral responses in a general equilibrium framework with rich household heterogeneity, my research explores the aggregate and distributional impacts of tax and transfer policies, focusing on their unintended consequences on the intended beneficiaries. With a blend of empirical and quantitative projects, my work contributes to the understanding of optimal public policy design. I am also interested in extending my framework to study policies in developing countries and explore economic and social phenomena beyond policy analysis. 
   
       <br>
        
-      <b>Teaching</b>: In addition to my research, I bring extensive teaching experience across a diverse range of courses, including Microeconomics, Macroeconomics, Public Economics, International Economics, and Mathematics, consistently achieving high performance ratings since 2018, with an average over 4.5/5.
+      <b>Teaching</b>: I also bring extensive teaching experience across a diverse range of courses, including Microeconomics, Macroeconomics, Public Economics, International Economics, and Mathematics, consistently achieving high performance ratings since 2018, with an average over 4.5/5.
 
       <br>
 
@@ -82,6 +85,8 @@ params:
         url: /teaching/
       - name: Other
         url: /other/
+      - name: Contact
+        url: /contact/
 
   social:
     - name: CV
