@@ -85,7 +85,7 @@ What do we know about income growth in Australia? How are incomes distributed, a
   
   - <i>Australian Treasury 2022</i>  
   - <i>Tax and Transfer Policy Institute (TTPI) Seminar Series 2022</i> (Crawford School of Public Policy, ANU)  
-  - <i>31st Australian Labour Market Research (ALMR) Workshop 2022</i> (Research School of Social Science, ANU)
+  - <i>31st Australian Labour Market Research (ALMR) Workshop 2022</i> (Research School of Social Sciences, ANU)
   - <i>Workshop of the Australasian Macroeconomics Society (WAMS) 2021</i> (Virtual)  
   - <i>A-Life Conference 2021</i> (Crawford School of Public Policy, ANU)  
   - <i>RSE PhD Workshop 2021</i> (Virtual, ANU)
