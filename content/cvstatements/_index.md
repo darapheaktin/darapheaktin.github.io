@@ -23,6 +23,11 @@ description: ""
 * <a href="/pdf/DarapheakTin__Teaching_Statement.pdf" target="_blank">Teaching Statement - 05/Nov/2024</a>  
 <span style="font-size:0.9em;">(This statement outlines my teaching philosophy, methodologies, and experience.)</span>
 
+<br>
+
+* <a href="/pdf/DarapheakTin__Teacher_Survey_Results_SELT20182023.pdf" target="_blank">Teaching Evaluations (SELT Scores)</a>  
+<span style="font-size:0.9em;">(This document presents feedback and survey ratings from students across multiple courses, where I was consistently rated 4.5 and above, reflecting student satisfaction and engagement in my teaching approach.)</span>
+
 ## Personal Statement 
 
 * <a href="/pdf/DarapheakTin__Personal_Statement.pdf" target="_blank">Personal Statement - 06/Nov/2024</a>  
