@@ -15,43 +15,13 @@ Means-tested child benefits and progressive tax systems both aim to support low-
 <div style="margin-top: 20px;"></div>
 
 <b><i>Paper Presentations to Date:</i></b>  
-- <i>RSE Macro Seminar 2024</i> (ANU)  
-- <i>Workshop by Australasian Macroeconomics Society (WAMS) and Laboratory for Aggregate Economics and Finance (LAEF) 2024</i> (scheduled)
+- <i>RSE Macroeconomics Seminar 2024</i> (Research School of Economics, ANU)  
+- <i>Joint Workshop by Australasian Macroeconomics Society (WAMS) and Laboratory for Aggregate Economics and Finance (LAEF)2024</i> (scheduled)
 
 <div style="margin-top: 5px;"></div>
 
  <b><i>Download:</i></b> 
 * <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (10/10/2024)</a>
-</div>
-
----
-
-# Publications
-
-## ["Lifecycle Earnings Risk and Insurance: New Evidence from Australia"](https://doi.org/10.1111/1475-4932.12723)
-
-**Authors**: Darapheak Tin and Chung Tran  
-**Published**: *Economic Record*, 2023.
-
-<div style="font-size:16px;">
-  This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital, and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.
-
-<div style="margin-top: 20px;"></div>
-
-<b><i>Paper Presentations to Date:</i></b>
-  - <i>A-Life Conference 2021</i> (Crawford School of Public Policy, ANU)  
-  - <i>RSE Macro Seminar series</i> (Virtual, ANU)  
-  - <i>Workshop of the Australasian Macroeconomics Society (WAMS) 2021</i>  
-  - <i>Treasury 2022</i>  
-  - <i>Tax and Transfer Policy Institute (TTPI) 2022</i> (ANU)  
-  - <i>Australian Labour Market Research (ALMR) Workshop 2022</i> (ANU)
-
-<div style="margin-top: 5px;"></div>
-
-<b><i>Download:</i></b>
-* <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
-* <a href="/pdf/Economic Record - Tin and Tran 2023 - Lifecycle Earnings Risk and Insurance  New Evidence from Australia__Technical Appendix.pdf" target="_blank">Technical Appendix</a>  
-* <a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf" target="_blank">Slides (11/2022)</a>
 </div>
 
 ---
@@ -69,12 +39,15 @@ Should government transfers to families with children be means-tested? We revisi
 <div style="margin-top: 20px;"></div>
 
 <b><i>Paper Presentations to Date:</i></b>  
-- <i>RSE Macro Study Group</i> (ANU)  
-- <i>21st Annual SAET Conference</i> (ANU)  
-- <i>RSE Annual PhD Workshop 2022</i> (ANU)  
+- <i>American Economic Association (AEA) Annual Meeting 2025 (Poster Session)</i> (San Francisco, CA - scheduled)
+- <i>Labour Econometrics Workshop (LEW) 2024</i> (University of Queensland) 
+- <i>Australian Conference of Economists (ACE) 2024</i> (University of Adelaide) 
+- <i>Society for Computational Economics 30th International Conference on Computing in Economics and Finance (CEF) 2024</i> (Nanyang Technological Institute)
+- <i>37th PhD Conference in Economics and Business 2023</i> (University of Melbourne)  
 - <i>Western Economics Association International (WEAI) 2023 Conference</i> (University of Melbourne)  
-- <i>Australian Conference of Economists (ACE) 2024</i> (University of Adelaide)  
-- <i>American Economic Association (AEA) 2025 Poster Session</i> (San Francisco, CA)
+- <i>21st Society for the Advancement of Economic Theory (SAET) Conference</i> (Research School of Economics, ANU)  
+- <i>PhD Workshop 2022</i> (Research School of Economics, ANU)  
+- <i>RSE Macroeconomics Seminar Series 2022</i> (Research School of Economics, ANU)  
 
 <div style="margin-top: 5px;"></div>
 
@@ -91,6 +64,39 @@ Should government transfers to families with children be means-tested? We revisi
 
 <div style="font-size:16px;">
 What do we know about income growth in Australia? How are incomes distributed, and how do earners move within the income distribution? What does this tell us about income inequality and income mobility over time and over the life cycle, and for different demographic groups? This research addresses these questions through the lenses of Australian administrative data (ALIFE and PLIDA) and household survey data (HILDA).
+</div>
+
+---
+
+# Publications
+
+## ["Lifecycle Earnings Risk and Insurance: New Evidence from Australia"](https://doi.org/10.1111/1475-4932.12723)
+
+**Authors**: Darapheak Tin and Chung Tran  
+**Published**: *Economic Record*, 2023.
+
+<div style="font-size:16px;">
+  This paper studies the nature of earnings dynamics in Australia, using the Household, Income and Labour Dynamics in Australia (HILDA) Survey 2001–2020. Our results indicate that the distribution of earnings shocks displays negative skewness and excess kurtosis, deviating from the conventional linearity and normality assumptions. Wage changes are strongly associated with earnings changes and account more for the dispersion of earnings shocks; meanwhile, the contribution of hour changes is largely absent in upward movement and relatively small in downward movement of earnings changes. Furthermore, family and government insurance plays distinct roles in reducing exposure to earnings risk. Government insurance embedded in the targeted transfer system is important in mitigating the dispersion of shocks, whereas family insurance via income pooling and adjustment of secondary earners' labour market activities is dominant in reducing the magnitude and likelihood of extreme and rare shocks. The magnitude and persistence of earnings risk as well as the insurance role of family and government vary significantly across gender, marital, and parental status. Accounting for these non-Gaussian and non-linearity features is important for evaluating the insurance role of government transfer programmes.
+
+<div style="margin-top: 20px;"></div>
+
+<b><i>Paper Presentations to Date:</i></b>
+  
+  
+  - <i>Australian Treasury 2022</i>  
+  - <i>Tax and Transfer Policy Institute (TTPI) Seminar Series 2022</i> (Crawford School of Public Policy, ANU)  
+  - <i>31st Australian Labour Market Research (ALMR) Workshop 2022</i> (Research School of Social Science, ANU)
+  - <i>Workshop of the Australasian Macroeconomics Society (WAMS) 2021</i> (Virtual)  
+  - <i>A-Life Conference 2021</i> (Crawford School of Public Policy, ANU)  
+  - <i>RSE PhD Workshop 2021</i> (Virtual, ANU)
+  - <i>RSE Macro Seminar series 2020</i> (Virtual, ANU)  
+
+<div style="margin-top: 5px;"></div>
+
+<b><i>Download:</i></b>
+* <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
+* <a href="/pdf/Economic Record - Tin and Tran 2023 - Lifecycle Earnings Risk and Insurance  New Evidence from Australia__Technical Appendix.pdf" target="_blank">Technical Appendix</a>  
+* <a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf" target="_blank">Slides (11/2022)</a>
 </div>
 
 <br><br>
