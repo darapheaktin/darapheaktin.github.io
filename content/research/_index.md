@@ -23,7 +23,7 @@ Means-tested child benefits and progressive tax systems both aim to support low-
     <a href="#" class="read-more"><b>Read more</b></a>
 </div>
 
-<div style="font-size:16px;">
+<div style="font-size:14px;">
 
 <div style="margin-top: 20px;"></div>
 
@@ -52,15 +52,15 @@ Should government transfers to families with children be means-tested? We revisi
 
 <div class="abstract" style="font-size:16px;">
     <span class="abstract-text">
-        Should government transfers to families with children be means-tested? We revisit this question from the unique Australian policy context, where average means-tested child benefits comprise up to 40% of the gross total income of low-income households, coinciding with the distinct M-shaped life cycle profile of labor supply for Australian mothers (Household survey data, HILDA 2001-2020). Motivated by these empirical facts, we explore the aggregate and distributive implications of means-testing and alternative child benefit designs quantitatively through a dynamic general equilibrium overlapping generations model of single and married households with children. Our simulation results demonstrate the significant adverse effects of means-testing on work incentives and human capital development among mothers. A structural reform that replaces the status quo means-tested system with a universal system improves female labor supply, output, and overall welfare while also garnering majority support. However, the universal system increases tax burden by 4 percentage points and negatively impacts single mothers—the intended beneficiaries 
+        Should government transfers to families with children be means-tested? We revisit this question from the unique Australian policy context, where average means-tested child benefits comprise up to 40% of the gross total income of low-income households, coinciding with the distinct M-shaped life cycle profile of labor supply for Australian mothers (Household survey data, HILDA 2001-2020). Motivated by these empirical facts, we explore the aggregate and distributive implications of means-testing and alternative child benefit designs quantitatively through a dynamic general equilibrium overlapping generations model of single and married households with children. Our simulation results demonstrate the significant adverse effects of means-testing on work incentives and human capital development among mothers. 
         <span class="more-text" style="display: none;">
-            —by reducing their net lifetime income and welfare. In our model, the inclusion of means-testing is essential for controlling fiscal costs and mitigating the adverse effects of higher taxes. Preserving the existing means-tested system and opting for incremental reforms could potentially result in modest improvements in output and welfare while ensuring a more equitable distribution of welfare gains. Hence, our findings highlight the complex trade-offs between efficiency and equity in designing child benefit programs.
+            A structural reform that replaces the status quo means-tested system with a universal system improves female labor supply, output, and overall welfare while also garnering majority support. However, the universal system increases tax burden by 4 percentage points and negatively impacts single mothers—the intended beneficiaries—by reducing their net lifetime income and welfare. In our model, the inclusion of means-testing is essential for controlling fiscal costs and mitigating the adverse effects of higher taxes. Preserving the existing means-tested system and opting for incremental reforms could potentially result in modest improvements in output and welfare while ensuring a more equitable distribution of welfare gains. Hence, our findings highlight the complex trade-offs between efficiency and equity in designing child benefit programs.
         </span>
     </span>
     <a href="#" class="read-more"><b>Read more</b></a>
 </div>
 
-<div style="font-size:16px;">
+<div style="font-size:14px;">
 
 <div style="margin-top: 20px;"></div>
 
@@ -116,7 +116,7 @@ What do we know about income growth in Australia? How are incomes distributed, a
     <a href="#" class="read-more"><b>Read more</b></a>
 </div>
 
-<div style="font-size:16px;">
+<div style="font-size:14px;">
 
 <div style="margin-top: 20px;"></div>
 
