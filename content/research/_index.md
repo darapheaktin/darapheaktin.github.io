@@ -5,7 +5,7 @@ description: "***Economic models start the questions; empirical evidence brings 
 
 # Job Market Paper
 
-## On the Joint Optimal Design of Taxes and Child-Related Transfers
+## On the Joint Optimal Design of Taxes and Child Benefits
 
 **Author**: Darapheak Tin
 <!--
@@ -15,9 +15,9 @@ Means-tested child benefits and progressive tax systems both aim to support low-
 
 <div class="abstract" style="font-size:16px;">
     <span class="abstract-text">
-        Means-tested child benefits and progressive tax systems both aim to support low-income families, but often create high and non-linear effective marginal tax rate schedules. This paper explores the joint optimization of these systems within a dynamic general equilibrium model of overlapping generations, calibrated to Australia (2012-2018). The model incorporates household heterogeneity in family structure, age and number of children, female human capital, and uninsurable earnings risks. I find that a standalone optimal tax system would reduce tax progressivity, encouraging labor supply among highly educated women but increasing tax liabilities on low-income parents, thus undermining the objectives of child benefit programs.  
+        Means-tested child benefit and progressive tax systems aim to support low-income families but often create high, non-linear effective marginal tax rates (EMTRs). This paper explores the joint optimization of these systems using a dynamic general equilibrium model of overlapping generations, calibrated to Australia (2012-2018). The model incorporates household heterogeneity in family structure, age and number of children, female human capital, and uninsurable earnings risks. I find that a standalone optimal tax reform would reduce tax progressivity, encouraging labor supply primarily among highly-educated women; however, it also increases tax liabilities for low-income parents, thereby undermining the objectives of child benefit programs.
         <span class="more-text" style="display: none;">
-            A jointly optimized system combines low tax progressivity and a universal lump-sum child benefit equal to 30% of median income (around AUD 18,000 in 2018), partly to offset the additional tax burdens on low-income parents. This integrated approach substantially improves overall and parental welfare, but non-parent households bear notable losses. A moderately reduced benefit, while not optimal, achieves welfare gains for parents with lower costs to non-parents. These findings highlight the importance of coordinating tax and child benefit policies to effectively support vulnerable parents, while cautioning against equity losses for non-parents when policies are optimized solely for overall welfare.
+            A jointly optimized system combines low tax progressivity with a universal lump-sum child benefit at 30% of median income (around AUD 18,000 in 2018), partly to compensate vulnerable parents for the added tax liabilities. This substantially improves overall and parental welfare, though non-parent households bear notable losses. A moderately reduced benefit, while not optimal, yields welfare gains for parents at a lower cost to non-parents. These findings highlight the importance of coordinating tax and child benefit policies to effectively support vulnerable parents while cautioning against equity losses for non-parents when policies are optimized solely for overall welfare.
         </span>
     </span>
     <a href="#" class="read-more"><b>Read more</b></a>
