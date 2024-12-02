@@ -49,7 +49,6 @@ description: ""
     <li><strong>Khmer</strong> (Native)</li>
     <li><strong>English</strong> (Fluent - IELTS 8.5/9)</li>
     <li><strong>Japanese</strong> and <strong>Turkish</strong> (Work-in-progress)</li>
-    <li><strong>French</strong> (Hopeless)</li>
 </ul>
 
 <hr>
