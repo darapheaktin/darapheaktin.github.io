@@ -20,9 +20,9 @@ A joint optimal system combines reduced tax progressivity with a universal lump-
 
 <div class="abstract" style="font-size:16px;">
     <span class="abstract-text">
-        Progressive income tax and means-tested child benefit systems are designed to support low-income families; however, their interaction generates high and non-linear effective marginal tax rates (EMTRs), which create substantial work disincentives, especially for low-income mothers. In this paper, I document this equity-efficiency trade-off using Australian household survey data (HILDA), explore how tax and child benefit systems should be designed to maximize (ex-ante) welfare, and examine their macroeconomic and distributional implications. To this end, I develop a dynamic general equilibrium model of overlapping generations, calibrated to Australia (2012–2018), featuring rich household heterogeneity in family structure, female human capital, uninsurable earnings risks, and the age and number of children. Assuming a utilitarian social welfare function, I find that optimal tax reform entails reducing tax progressivity, shifting tax burdens from high- to low-income households to incentivize longer work hours. This scheme produces a modest welfare gain but disadvantages some low-education parents, thereby undermining the objectives of child benefit programs. 
+        Progressive income tax and means-tested child benefit systems are designed to support low-income families; however, their interaction generates high and non-linear effective marginal tax rates (EMTRs), which create substantial work disincentives for recipients, especially low-income mothers. I document this equity-efficiency trade-off using Australian household survey data (HILDA), explore how tax and child benefit systems should be designed to maximize (ex-ante) welfare, and examine their macroeconomic and distributional implications. To this end, I develop a dynamic general equilibrium model of overlapping generations, calibrated to Australia (2012–2018), featuring rich household heterogeneity in family structure, female human capital, uninsurable earnings risks, and the age and number of children. I find that optimal tax reform entails reducing tax progressivity, shifting tax burdens from high- to low-income brackets to incentivize longer work hours. This scheme produces a modest welfare gain but disadvantages some low-education parents, thereby undermining the objectives of child benefit programs.
         <span class="more-text" style="display: none;">
-            I demonstrate that a joint optimal system—combining reduced tax progressivity with a universal lump-sum child benefit at 30% of average income—yields superior overall and parental welfare outcomes. While reduced tax progressivity benefits high-education parents, the joint design allows for transfers to compensate low-education parents for their increased tax liabilities. However, this approach imposes notable welfare losses on non-parent households due to the higher overall tax burden required to fund the expanded child benefit program. Moderately scaled-back transfers, deviating from the optimal level, provide smaller welfare gains to parents but at substantially lower costs to non-parents, whereas overly generous transfers lead to excessive tax burdens, contracting the economy and ultimately harming the intended beneficiaries. These findings highlight the importance of policy coordination and fiscal sustainability in effectively supporting vulnerable parents while balancing equity and efficiency considerations.
+            I demonstrate that a joint optimal system—combining reduced tax progressivity with a universal lump-sum child benefit at 30% of average income—yields superior overall and parental welfare outcomes. While reduced tax progressivity benefits high-education parents, the joint design allows for transfers to compensate low-education parents for the increased tax liabilities. However, the high tax burden required to fund the expanded child benefit program imposes notable welfare losses on non-parents. Moderately scaled-back transfers provide smaller welfare gains but at substantially lower costs to non-parents, whereas overly generous transfers lead to excessive tax burdens, contracting the economy and harming the intended beneficiaries. These findings highlight the importance of policy coordination and fiscal sustainability in effectively supporting vulnerable parents while balancing equity and efficiency considerations.
         </span>
     </span>
     <a href="#" class="read-more"><b>Read more</b></a>
@@ -39,7 +39,7 @@ A joint optimal system combines reduced tax progressivity with a universal lump-
 <div style="margin-top: 5px;"></div>
 
  <b><i>Download:</i></b> 
-* <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (15/12/2024)</a>
+* <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (15/Dec/2024)</a>
 </div>
 
 ---
@@ -83,8 +83,8 @@ Should government transfers to families with children be means-tested? We revisi
 <div style="margin-top: 5px;"></div>
 
 <b><i>Download:</i></b>   
-* <a href="/pdf/TinTran2024_WP__Child-Related Transfers Means Testing and Welfare__30092024.pdf" target="_blank">Working Paper (17/09/2024)</a>  
-* <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_Slides_TTPI2024.pdf" target="_blank">Slides (06/2024)</a>
+* <a href="/pdf/TinTran2024_WP__Child-Related Transfers Means Testing and Welfare__30092024.pdf" target="_blank">Working Paper (17/Sep/2024)</a>  
+* <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_Slides_TTPI2024.pdf" target="_blank">Slides (June/2024)</a>
 </div>
 
 
@@ -94,7 +94,7 @@ Should government transfers to families with children be means-tested? We revisi
 **Status**: Ongoing
 
 <div style="font-size:16px;">
-What do we know about income growth in Australia? How are incomes distributed, and how do earners move within the income distribution? What does this tell us about income inequality and income mobility over time and over the life cycle, and for different demographic groups? This research addresses these questions through the lenses of Australian administrative data (ALIFE and PLIDA) and household survey data (HILDA).
+This paper examines the evolution of earnings distribution over three decades of uninterrupted economic growth in Australia from 1991 to 2020. Using a 10% sample of taxpayer records, we document key statistics for earnings inequality, dynamics, and mobility. Our results reveal moderate upward mobility, particularly among younger workers. However, we also find an upward trend in earnings inequality, driven mainly by growth at the top of the income distribution, with men experiencing higher levels of inequality than women. Additionally, idiosyncratic earnings risk—measured through dispersion and skewness—remained persistent throughout this period. These findings enhance understanding of income inequality dynamics, highlighting steady mobility over the life cycle and enduring top-end inequality despite stable economic conditions.
 </div>
 
 ---
@@ -140,7 +140,7 @@ What do we know about income growth in Australia? How are incomes distributed, a
 <b><i>Download:</i></b>
 * <a href="https://doi.org/10.1111/1475-4932.12723" target="_blank">Full Article (Economic Record, 2023)</a>  
 * <a href="/pdf/Economic Record - Tin and Tran 2023 - Lifecycle Earnings Risk and Insurance  New Evidence from Australia__Technical Appendix.pdf" target="_blank">Technical Appendix</a>  
-* <a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf" target="_blank">Slides (11/2022)</a>
+* <a href="/pdf/Lifecycle_Earnings_Risk__New_Evidence_from_Australia__2022__slides.pdf" target="_blank">Slides (Nov/2022)</a>
 </div>
 
 <br><br>
