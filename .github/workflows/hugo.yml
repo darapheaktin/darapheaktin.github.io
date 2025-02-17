@@ -49,10 +49,10 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3  # ✅ Updated to v3
+        uses: actions/upload-pages-artifact@v3  # Updated to v3
         with:
           path: ./public
-          include-hidden-files: true  # ✅ Ensures hidden files are included
+          include-hidden-files: true  # Ensures hidden files are included
 
   deploy:
     environment:
@@ -63,4 +63,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3  # ✅ Keeping v3 for stability
+        uses: actions/deploy-pages@v4  # Keeping v4 for stability
