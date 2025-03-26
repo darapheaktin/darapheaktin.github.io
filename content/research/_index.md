@@ -39,7 +39,7 @@ A joint optimal system combines reduced tax progressivity with a universal lump-
 <div style="margin-top: 5px;"></div>
 
  <b><i>Download:</i></b> 
-* <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (15/Dec/2024)</a>
+* <a href="/pdf/JMP_DarapheakTin_2024.pdf" target="_blank">Job Market Paper (15/Mar/2025)</a>
 </div>
 
 ---
