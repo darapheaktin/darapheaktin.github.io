@@ -46,6 +46,24 @@ A joint optimal system combines reduced tax progressivity with a universal lump-
 
 # Working Papers
 
+## The Evolution of Earnings Distribution in a Sustained Growth Economy: Evidence from Australia
+
+**Authors**: Darapheak Tin, Chung Tran, and Nabeeh Zakariyya  
+**Status**: Ongoing
+
+<div style="font-size:16px;">
+Abstract We study the evolution of the earnings distributions in Australia from 1991 to 2020, a prolonged period of sustained economic growth without recession. Using a 10% sample of Australian taxpayer records, we document key trends in labour earnings inequality, mobility and risk for workers aged 25 to 55. Our findings reveal strong upward earnings mobility for both men and women. Earnings inequality rose modestly until the early 2010s, driven by top earners, but has since declined. The gender gap in earnings inequality has narrowed, and even reversed in recent years, mainly due to a sharp reduction in inequality among women at the lower end of the earnings distribution. Early-life disparities also play an increasingly important role in shaping later-life inequality, particularly for younger cohorts. This reversal in inequality trends has emerged over the past decade, coinciding with a slowdown in economic growth. Moreover, although aggregate macroeconomic conditions have been relatively stable, idiosyncratic earnings risk—captured by dispersion, skewness, and kurtosis—remains persistent, with greater volatility at both the top and bottom percentiles. Women continue to face higher risk and lower mobility than men, despite experiencing stronger average earnings growth over the entire period. Hence, our findings provide new insights into how prolonged economic expansion shapes the dynamics of earnings across different demographic and income groups.
+</div>
+
+<div style="font-size:14px;">
+
+<div style="margin-top: 20px;"></div>
+
+ <b><i>Download:</i></b> 
+* <a href="/pdf/TinTranZakariyya2025_WP__The Evolution of the Earnings Distribution in Sustained Growth Economy__23032025.pdf" target="_blank">Working Paper (23/Mar/2025)</a>
+</div>
+
+
 ## Child-Related Transfers, Means Testing, and Welfare
 
 **Authors**: Darapheak Tin and Chung Tran  
@@ -87,15 +105,9 @@ Should government transfers to families with children be means-tested? We revisi
 * <a href="/pdf/TinTran2024__Aggregate_Implications_of_Child_Related_Transfers_with_Means_Testing_Slides_TTPI2024.pdf" target="_blank">Slides (June/2024)</a>
 </div>
 
-
-## Sustained Growth and Income Dynamics in Australia
-
-**Authors**: Darapheak Tin, Chung Tran, and Nabeeh Zakariyya  
-**Status**: Ongoing
-
-<div style="font-size:16px;">
+<!--
 This paper examines the evolution of earnings distribution over three decades of uninterrupted economic growth in Australia (1991-2020). Using a 10% sample of taxpayer records, we find moderate upward mobility and a narrowing gender earnings gap. However, earnings inequality has increased, primarily driven by growth at the top of the income distribution, with men experiencing higher levels of inequality than women. Our results further indicate that inequality is increasingly shaped by initial labor market entry conditions, reflecting a shift toward more persistent early-life disparities. Additionally, idiosyncratic earnings risk—measured through dispersion, skewness, and kurtosis of earnings shocks—remained persistent throughout this period. Women continue to face greater earnings risk and lower mobility than men, despite exhibiting stronger and more consistent earnings growth. These findings provide new insights into the implications of sustained economic growth for earnings inequality, mobility, and risk across different population segments in the absence of major economic recessions.
-</div>
+-->
 
 ---
 
