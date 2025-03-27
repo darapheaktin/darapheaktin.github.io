@@ -20,6 +20,11 @@ description: ""
 
 ## Teaching Statement 
 
+* <a href="/pdf/DarapheakTin_Teaching_Dossier.pdf" target="_blank">Teaching Dossier – 15/Mar/2025</a>  
+<span style="font-size:0.9em;">(A comprehensive record of my teaching philosophy, strategies, course development, student feedback, and contributions to inclusive and effective learning.)</span>
+
+<br>
+
 * <a href="/pdf/DarapheakTin__Teaching_Statement.pdf" target="_blank">Teaching Statement - 09/Nov/2024</a>  
 <span style="font-size:0.9em;">(This statement outlines my teaching philosophy, methodologies, and experience.)</span>
 
