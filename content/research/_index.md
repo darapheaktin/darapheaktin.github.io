@@ -63,6 +63,12 @@ We study the evolution of the earnings distributions in Australia from 1991 to 2
 * <a href="/pdf/TinTranZakariyya2025_WP__The Evolution of the Earnings Distribution in Sustained Growth Economy__23032025.pdf" target="_blank">Working Paper (23/Mar/2025)</a>
 </div>
 
+<div style="margin-top: 5px;"></div>
+
+<b><i>Read:</i></b>  
+* <a href="https://www.austaxpolicy.com/budget-forum-2025-winners-and-losers-in-australias-uninterrupted-growth-era-and-policy-implications/" target="_blank">TTPI Budget Forum Article (01/Apr/2025)</a>
+</div>
+
 
 ## Child-Related Transfers, Means Testing, and Welfare
 
