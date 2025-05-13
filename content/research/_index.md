@@ -60,7 +60,7 @@ We study the evolution of the earnings distributions in Australia from 1991 to 2
 <div style="margin-top: 20px;"></div>
 
  <b><i>Download:</i></b> 
-* <a href="/pdf/TinTranZakariyya2025_WP__The Evolution of the Earnings Distribution in Sustained Growth Economy__23032025.pdf" target="_blank">Working Paper (23/Mar/2025)</a>
+* <a href="/pdf/TinTranZakariyya2025_WP__The Evolution of the Earnings Distribution in Sustained Growth Economy.pdf" target="_blank">Working Paper (12/May/2025)</a>
 </div>
 
 <div style="font-size:14px;">
