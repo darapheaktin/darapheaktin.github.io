@@ -20,7 +20,7 @@ I have extensive teaching experience across a broad range of undergraduate and g
 <div style="font-size:16px;">
 1. <b>Teaching Assistant</b> (2018 - 2021)<br>
 2. <b>Associate Lecturer</b> (2022 - 2023)<br>
-3. <b>Head Teaching Assistant</b> (2024)<br>
+3. <b>Head Teaching Assistant</b> (2024 - 2025)<br>
 </div>
 
 ## Courses Taught
@@ -39,6 +39,9 @@ I have extensive teaching experience across a broad range of undergraduate and g
   Instructor: Dr. Dana Hanna, Associate Dean of Education
 
 - <b>Macroeconomics 2 (ECON2102)</b><br>
+  Instructor: Associate Professor Chung Tran
+
+- <b>Macroeconomic Theory (ECON4422/ECON8022)</b><br>
   Instructor: Associate Professor Chung Tran
 
 - <b>International Economics (ECON3103/ECON4415/ECON8015)</b><br>
