@@ -5,27 +5,39 @@ description: ""
 
 # Teaching 
 
-## Philosophy
-<div style="font-size:16px;">
-I believe in teaching economics as a foundation for critical thinking, where models serve as tools to structure thought and spark inquiry, highlighting channels for empirical exploration, rather than as objects of reverence. I offer strong support to struggling students, understanding firsthand the transformative impact of an inspiring teacher. My goal is to instill a genuine motivation for economics, emphasizing the essential complement between theory and evidence in meaningful investigation.
+<div style="font-size:14px;">
+
+1. <a href="#philosophy">Philosophy</a><br>
+2. <a href="#experience">Experience</a><br>
+3. <a href="#position-held">Positions Held</a><br>
+4. <a href="#courses-taught">Courses Taught</a><br>
+5. <a href="#sample-slides">Sample Teaching Material</a><br>
+6. <a href="#other-responsibilities">Other responsibilities</a><br>
+
 </div>
 
-## Experience
+---
+
+## 1. Philosophy <a id="philosophy"></a>
+<div style="font-size:16px;">
+I believe in teaching economics as a foundation for critical thinking, where models serve as tools to structure thought and spark inquiry, highlighting channels for empirical exploration, rather than as objects of reverence. I offer strong support to struggling students, understanding firsthand the transformative impact of an inspiring teacher. My goal is to instill a genuine motivation for economics, emphasizing the essential complement between theory and evidence in meaningful investigation.<br> 
+
+</div>
+
+## 2. Experience <a id="experience"></a>
 <div style="font-size:16px;">
 I have extensive teaching experience across a broad range of undergraduate and graduate courses in the College of Business and Economics (CBE) and the College of Arts and Social Sciences (CASS) at the Australian National University (ANU). Starting as a Teaching Assistant in 2018, I was appointed as an Associate Lecturer at the Research School of Economics in 2022-2023. Currently, I serve as a Head Teaching Assistant. Throughout my teaching career, I have consistently received high student evaluations, with SELT scores exceeding 4.5/5.
-
-See the list of <a href="#courses-taught">courses I taught</a> and <a href="#sample-slides">my sample teaching slides</a> below.
 </div>
 
-## Positions Held
+## 3. Positions Held <a id="position-held"></a>
 
 <div style="font-size:16px;">
-1. <b>Teaching Assistant</b> (2018 - 2021)<br>
-2. <b>Associate Lecturer</b> (2022 - 2023)<br>
-3. <b>Head Teaching Assistant</b> (2024 - 2025)<br>
+- <b>Teaching Assistant</b> (2018 - 2021)<br>
+- <b>Associate Lecturer</b> (2022 - 2023)<br>
+- <b>Head Teaching Assistant</b> (2024 - 2025)<br>
 </div>
 
-## Courses Taught <a id="courses-taught"></a>
+## 4. Courses Taught <a id="courses-taught"></a>
 
 ### College of Business and Economics (CBE), Australian National University (ANU)
 
@@ -69,7 +81,7 @@ See the list of <a href="#courses-taught">courses I taught</a> and <a href="#sam
 
 </div>
 
-## Sample teaching slides <a id="sample-slides"></a>
+## 5. Sample teaching slides <a id="sample-slides"></a>
 
 <div style="font-size:14px;">
 
@@ -104,7 +116,7 @@ See the list of <a href="#courses-taught">courses I taught</a> and <a href="#sam
 
 </div>
 
-## Other Responsibilities
+## 6. Other Responsibilities <a id="other-responsibilities"></a>
 <div style="font-size:16px;">
 My teaching experience extends beyond the classroom, encompassing full course coordination and effective team management. In my roles as Associate Lecturer and Head Teaching Assistant, I organized course structures, coordinated and supported tutors, and liaised between the teaching team and students to ensure a smooth learning experience. I also handled sensitive academic cases that required balancing academic integrity, ethical standards, and empathy toward students’ unique situations—a role that often felt like walking on eggshells. Through these experiences, I have developed strong interpersonal skills and a commitment to creating a positive learning environment.
 
