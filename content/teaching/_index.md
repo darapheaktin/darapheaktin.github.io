@@ -13,6 +13,8 @@ I believe in teaching economics as a foundation for critical thinking, where mod
 ## Experience
 <div style="font-size:16px;">
 I have extensive teaching experience across a broad range of undergraduate and graduate courses in the College of Business and Economics (CBE) and the College of Arts and Social Sciences (CASS) at the Australian National University (ANU). Starting as a Teaching Assistant in 2018, I was appointed as an Associate Lecturer at the Research School of Economics in 2022-2023. Currently, I serve as a Head Teaching Assistant. Throughout my teaching career, I have consistently received high student evaluations, with SELT scores exceeding 4.5/5.
+
+See the list of <a href="#courses-taught">courses I taught</a> and <a href="#sample-slides">my sample teaching slides</a> below.
 </div>
 
 ## Positions Held
@@ -23,7 +25,7 @@ I have extensive teaching experience across a broad range of undergraduate and g
 3. <b>Head Teaching Assistant</b> (2024 - 2025)<br>
 </div>
 
-## Courses Taught
+## Courses Taught <a id="courses-taught"></a>
 
 ### College of Business and Economics (CBE), Australian National University (ANU)
 
@@ -67,7 +69,7 @@ I have extensive teaching experience across a broad range of undergraduate and g
 
 </div>
 
-## Sample teaching slides
+## Sample teaching slides <a id="sample-slides"></a>
 
 <div style="font-size:14px;">
 
