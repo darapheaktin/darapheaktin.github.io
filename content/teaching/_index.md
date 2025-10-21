@@ -67,7 +67,7 @@ I have extensive teaching experience across a broad range of undergraduate and g
 
 </div>
 
-### Sample teaching slides
+## Sample teaching slides
 
 <div style="font-size:14px;">
 
@@ -77,6 +77,18 @@ I have extensive teaching experience across a broad range of undergraduate and g
 * <a href="/pdf/MacroTheory_sample1.pdf" target="_blank">Real Business Cycle (RBC) Model</a>
 * <a href="/pdf/MacroTheory_sample2.pdf" target="_blank">Overlapping Generations + General Equilibrium Framework</a>
 * <a href="/pdf/MacroTheory_sample3.pdf" target="_blank">Huggett and Aiyagari Models</a>
+
+</div>
+
+<div style="font-size:14px;">
+
+<div style="margin-top: 5px;"></div>
+
+<b><i>Economic Policy Issues:</i></b>  
+* <a href="/pdf/EconomicPolicyIssues_Sample1.pdf" target="_blank">Modern Monetary Policy</a>
+* <a href="/pdf/EconomicPolicyIssues_Sample2.pdf" target="_blank">International Trade - China Syndrome</a>
+* <a href="/pdf/EconomicPolicyIssues_Sample3.pdf" target="_blank">Education - Charter Schools and their Outcomes</a>
+* <a href="/pdf/EconomicPolicyIssues_Sample4.pdf" target="_blank">Gender Pay Gap - Laws, Regulations and Human Capital</a>
 
 </div>
 
