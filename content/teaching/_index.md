@@ -69,15 +69,23 @@ I have extensive teaching experience across a broad range of undergraduate and g
 
 ### Sample teaching slides
 
-<b>Macroeconomic Theory</b> 
-* <a href="/pdf/MacroTheory_sample1.pdf" target="_blank">Real Business Cycle (RBC) Model</a>  
+<div style="font-size:14px;">
+
+<div style="margin-top: 20px;"></div>
+
+ <b><i>Macroeconomic Theory:</i></b> 
+* <a href="/pdf/MacroTheory_sample1.pdf" target="_blank">Real Business Cycle (RBC) Model</a>
 * <a href="/pdf/MacroTheory_sample2.pdf" target="_blank">Overlapping Generations + General Equilibrium Framework</a>
 * <a href="/pdf/MacroTheory_sample3.pdf" target="_blank">Huggett and Aiyagari Models</a>
 
 </div>
 
-<b>Macroeconomics 2</b> 
-* <a href="/pdf/Intermediate_Macro_sample1.pdf" target="_blank">One-Period Competitive Equilibrium</a>  
+<div style="font-size:14px;">
+
+<div style="margin-top: 5px;"></div>
+
+<b><i>Macroeconomics 2:</i></b>  
+* <a href="/pdf/Intermediate_Macro_sample1.pdf" target="_blank">One-Period Competitive Equilibrium</a>
 * <a href="/pdf/Intermediate_Macro_sample2.pdf" target="_blank">COVID-19 and Policy through the Lens of the RBC Model (Diagrammatic Analysis)</a>
 
 </div>
