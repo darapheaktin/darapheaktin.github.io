@@ -49,9 +49,11 @@ A joint optimal system combines reduced tax progressivity with a universal lump-
 
 **Authors**: Darapheak Tin, Chung Tran, and Nabeeh Zakariyya  
 **Status**: Ongoing
-
-<div style="font-size:16px;">
+<!--
 We study the evolution of the earnings distributions in Australia from 1991 to 2020, a prolonged period of sustained economic growth without recession. Using a 10% sample of Australian taxpayer records, we document key trends in labour earnings inequality, mobility and risk for workers aged 25 to 55. Our findings reveal strong upward earnings mobility for both men and women. Earnings inequality rose modestly until the early 2010s, driven by top earners, but has since declined. The gender gap in earnings inequality has narrowed, and even reversed in recent years, mainly due to a sharp reduction in inequality among women. Early-life disparities also play an increasingly important role in shaping later-life inequality, particularly for younger cohorts. This reversal in inequality trends has emerged over the past decade, coinciding with a slowdown in economic growth. Moreover, although aggregate macroeconomic conditions have been relatively stable, idiosyncratic earnings risk—captured by dispersion, skewness, and kurtosis—remains persistent, with the greatest volatility at the bottom bracket. Women continue to face higher risk and lower mobility than men, despite experiencing stronger average earnings growth over the entire period. Hence, our findings provide new insights into how prolonged economic expansion shapes the dynamics of earnings across different demographic and income groups.
+-->
+<div style="font-size:16px;">
+We document the evolution of earnings in Australia from 1991 to 2020 using a 10% sample of administrative tax records (ALife). Adopting Global Repository of Income Dynamics (GRID) methods, we construct harmonised statistics on earnings inequality, mobility and idiosyncratic risk for earners aged 25-55. Three facts stand out. First, inequality rose through the 1990s-2000s—driven by rapid gains at the top—and declined in the 2010s as top-end growth stalled and women recorded sustained improvements across cohorts and income ranks, especially at the bottom. Second, cohort evidence shows a shifting balance between entry conditions and life-cycle reshuffling: for older cohorts, within-career shocks added materially to dispersion, whereas for younger cohorts larger disparities at labour market entry account for more of lifetime inequality. Third, idiosyncratic earnings risk is asymmetric and cyclical: downside shock volatility is higher for women and intensifies during slowdowns, although upward mobility over working life remains strong by international standards. Thus, the rise and subsequent moderation of inequality largely reflect where growth was concentrated (top-heavy earlier, bottom-heavy for women later), rather than a structural shift in movement through the distribution or in exposure to downside risk. Extending beyond labour earnings, taxes and transfers compress inequality and dampen instability at the bottom. Together, these facts provide a long-run, internationally comparable picture of earnings dynamics in an economy with sustained growth and extensive fiscal redistribution.
 </div>
 
 <div style="font-size:14px;">
@@ -59,7 +61,7 @@ We study the evolution of the earnings distributions in Australia from 1991 to 2
 <div style="margin-top: 20px;"></div>
 
  <b><i>Download:</i></b> 
-* <a href="/pdf/TinTranZakariyya2025_WP__The Evolution of the Earnings Distribution in Sustained Growth Economy.pdf" target="_blank">Working Paper (12/May/2025)</a>
+* <a href="/pdf/TinTranZakariyya2025_WP__The Evolution of the Earnings Distribution in Sustained Growth Economy.pdf" target="_blank">Working Paper (24/10/2025)</a>
 </div>
 
 <div style="font-size:14px;">
